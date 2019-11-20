@@ -1,0 +1,10 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Jump 10 down">
+      <typing text-keycode="49:0;48:0;74:0">10j</typing>
+    </macro>
+    <macro name="Jump 10 up">
+      <typing text-keycode="49:0;48:0;75:0">10k</typing>
+    </macro>
+  </component>
+</application>
