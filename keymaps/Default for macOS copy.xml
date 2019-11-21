@@ -144,6 +144,7 @@
   <action id="EditorScrollUp">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorToggleCase" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -152,6 +153,7 @@
   <action id="ExecuteInPyConsoleAction">
     <keyboard-shortcut first-keystroke="shift alt e" />
     <keyboard-shortcut first-keystroke="ctrl e" />
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Exit" />
   <action id="ExpandAll">
