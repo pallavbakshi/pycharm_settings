@@ -17,6 +17,7 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta q" />
     <keyboard-shortcut first-keystroke="alt space" second-keystroke="k" />
+    <keyboard-shortcut first-keystroke="meta o" />
   </action>
   <action id="ActivatePythonConsoleToolWindow">
     <keyboard-shortcut first-keystroke="ctrl p" />
