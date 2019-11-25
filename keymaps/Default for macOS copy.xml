@@ -27,7 +27,7 @@
     <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
   <action id="ActivateStructureToolWindow">
-    <keyboard-shortcut first-keystroke="meta m" />
+    <keyboard-shortcut first-keystroke="shift meta m" />
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt space" second-keystroke="t" />
@@ -83,6 +83,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt c" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="DBNavigator.Actions.MainMenu.MethodExecutionHistory" />
   <action id="DatabaseView.PropertiesAction" />
   <action id="DatabaseView.Refresh" />
   <action id="Debug" />
@@ -230,6 +231,10 @@
   </action>
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="meta space" second-keystroke="f" />
   </action>
@@ -330,7 +335,9 @@
     <keyboard-shortcut first-keystroke="ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
-  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
@@ -399,7 +406,17 @@
     <keyboard-shortcut first-keystroke="f1" />
     <mouse-shortcut keystroke="control button2" />
   </action>
+  <action id="RecentChanges">
+    <keyboard-shortcut first-keystroke="shift alt c" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
   <action id="RecentFiles" />
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
+  </action>
   <action id="Refresh" />
   <action id="RemoteHost.NewRemoteItem">
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -451,7 +468,8 @@
   <action id="ToggleBookmark4" />
   <action id="ToggleBookmark5" />
   <action id="ToggleBookmarkWithMnemonic">
-    <keyboard-shortcut first-keystroke="shift meta alt f3" />
+    <keyboard-shortcut first-keystroke="alt f3" />
+    <keyboard-shortcut first-keystroke="alt m" />
   </action>
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta f11" />
