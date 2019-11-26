@@ -303,11 +303,13 @@
     <keyboard-shortcut first-keystroke="shift alt slash" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
     <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
     <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Editor.ZoomIn">
