@@ -302,10 +302,12 @@
   <action id="HippieBackwardCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
     <keyboard-shortcut first-keystroke="ctrl quote" />
+    <keyboard-shortcut first-keystroke="f9" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Editor.ZoomIn">
@@ -431,6 +433,9 @@
   </action>
   <action id="Rerun" />
   <action id="RestoreDefaultLayout" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -456,6 +461,7 @@
     <keyboard-shortcut first-keystroke="meta p" second-keystroke="h" />
     <keyboard-shortcut first-keystroke="meta p" second-keystroke="meta h" />
   </action>
+  <action id="StepOver" />
   <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="Table-selectNextColumn">
     <keyboard-shortcut first-keystroke="right" />
