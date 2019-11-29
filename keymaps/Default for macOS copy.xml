@@ -326,11 +326,11 @@
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="Macro.Jump 10 down">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="Macro.Jump 10 up">
     <keyboard-shortcut first-keystroke="shift meta k" />
-  </action>
-  <action id="Macro.Move 10 lines down">
-    <keyboard-shortcut first-keystroke="shift meta j" />
   </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift meta quote" />
