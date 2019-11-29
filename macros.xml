@@ -6,5 +6,17 @@
     <macro name="Jump 10 up">
       <typing text-keycode="49:0;48:0;75:0">10k</typing>
     </macro>
+    <macro name="Move 10 lines down">
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+    </macro>
   </component>
 </application>
