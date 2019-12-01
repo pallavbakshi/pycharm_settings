@@ -18,5 +18,11 @@
       <shortuct text="DOWN" />
       <shortuct text="DOWN" />
     </macro>
+    <macro name="Jump 3 down">
+      <typing text-keycode="74:0;74:0;74:0">jjj</typing>
+    </macro>
+    <macro name="Jump 3 up">
+      <typing text-keycode="75:0;75:0;75:0">kkk</typing>
+    </macro>
   </component>
 </application>
