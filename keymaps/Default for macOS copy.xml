@@ -128,6 +128,13 @@
     <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="EditorPageDown">
     <keyboard-shortcut first-keystroke="page_down" />
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -341,6 +348,12 @@
   <action id="Macro.Jump 3 up">
     <keyboard-shortcut first-keystroke="shift meta i" />
   </action>
+  <action id="Macro.Move and scroll down by 10">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+  </action>
+  <action id="Macro.Move and scroll up by 10">
+    <keyboard-shortcut first-keystroke="shift alt k" />
+  </action>
   <action id="MaximizeToolWindow">
     <keyboard-shortcut first-keystroke="shift meta quote" />
     <keyboard-shortcut first-keystroke="alt f4" />
@@ -360,14 +373,6 @@
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="Move" />
-  <action id="MoveStatementDown">
-    <keyboard-shortcut first-keystroke="shift meta down" />
-    <keyboard-shortcut first-keystroke="alt j" />
-  </action>
-  <action id="MoveStatementUp">
-    <keyboard-shortcut first-keystroke="shift meta up" />
-    <keyboard-shortcut first-keystroke="alt k" />
-  </action>
   <action id="MoveTabDown">
     <keyboard-shortcut first-keystroke="meta p" second-keystroke="j" />
     <keyboard-shortcut first-keystroke="meta p" second-keystroke="meta j" />

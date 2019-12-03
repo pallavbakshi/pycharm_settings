@@ -24,5 +24,29 @@
     <macro name="Jump 3 up">
       <typing text-keycode="75:0;75:0;75:0">kkk</typing>
     </macro>
+    <macro name="Move and scroll down by 10">
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+      <action id="EditorMoveDownAndScroll" />
+    </macro>
+    <macro name="Move and scroll up by 10">
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+      <action id="EditorMoveUpAndScroll" />
+    </macro>
   </component>
 </application>
