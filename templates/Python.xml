@@ -1,0 +1,7 @@
+<templateSet group="Python">
+  <template name="ipd" value="import pandas as pd" description="import pandas as pd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
