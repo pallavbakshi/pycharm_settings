@@ -299,7 +299,6 @@
   </action>
   <action id="GotoSuperMethod" />
   <action id="HideAllWindows">
-    <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="alt space" second-keystroke="alt space" />
   </action>
   <action id="HideSideWindows">
@@ -390,6 +389,7 @@
   </action>
   <action id="NewScratchFile">
     <keyboard-shortcut first-keystroke="meta space" second-keystroke="b" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="meta p" second-keystroke="n" />
