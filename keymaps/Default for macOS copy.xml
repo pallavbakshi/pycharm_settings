@@ -448,7 +448,9 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="meta space" second-keystroke="shift r" />
   </action>
-  <action id="Rerun" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="RerunFailedTests">
     <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
