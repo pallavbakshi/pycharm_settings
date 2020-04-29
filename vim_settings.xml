@@ -74,56 +74,69 @@
       <file name="/Dummy.txt" timestamp="1588142714031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588147575109">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="11" column="15" />
-        <mark key="." line="11" column="14" />
-        <mark key="^" line="11" column="15" />
+      <file name="/Python Console" timestamp="1588149310599">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588151077205">
+        <mark key="e" line="36" column="61" />
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="38" column="43" />
+        <mark key="l" line="9" column="40" />
+        <mark key="m" line="36" column="94" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="43" />
+        <mark key="^" line="38" column="44" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="22" column="3" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="18" column="21" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="9" column="27" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="8" column="40" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="7" column="10" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="35" column="67" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="19" column="24" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="37" column="55" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzLnBhZ2VzKCkpCg==</text>
+      <register name="0" type="4">
+        <text>&quot;application/json&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJwYWdlIl0pCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>pages</text>
+        <text>&quot;application/json&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJkYXRhIl0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzLmtleXMoKSkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzLmpzb24oKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJwYWdlIl0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUodXNlcnMpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJkYXRhIl0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJzLmtleXMoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBjb3VudGVyIDwgMDoK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJzLmpzb24oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyIC09IDEK</text>
+        <text encoding="base64">ICAgIHByaW50KHR5cGUodXNlcnMpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBicmVhawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="-" type="4">
-        <text>pages</text>
+        <text>params</text>
       </register>
     </registers>
   </component>
