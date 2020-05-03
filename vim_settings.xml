@@ -100,15 +100,15 @@
         <mark key="." line="79" column="70" />
         <mark key="^" line="79" column="71" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588514136425">
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588514836241">
         <mark key="g" line="70" column="23" />
-        <mark key="'" line="4" column="47" />
+        <mark key="'" line="96" column="10" />
         <mark key="j" line="90" column="47" />
-        <mark key="[" line="108" column="0" />
+        <mark key="[" line="90" column="37" />
         <mark key="m" line="99" column="28" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+        <mark key="]" line="90" column="38" />
+        <mark key="^" line="90" column="38" />
+        <mark key="." line="90" column="37" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/exceptions.py" timestamp="1588511009066">
         <mark key="[" line="4" column="0" />
@@ -159,48 +159,49 @@
       <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="99" column="28" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="4" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
+      <jump line="96" column="10" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>'x'])</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>'x'])</text>
       </register>
       <register name="/" type="4">
         <text>np.full</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkWzA6MywgMTRdID0gU09MSUQK</text>
+        <text encoding="base64">ICAgIGFzc2VydCByZXN1bHRbMiwgMTddID09ICdvYCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBucC5jb3VudF9ub256ZXJvKHJlc3VsdCA9PSAneCcpID09IGxlbihleHBlY3RlZCkK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkID0gbnAuYXJyYXkoWyd4JywgJ3gnLCAneCcsICd4JywgJ3gnLCAneCddKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdFsxLCAwOjZdLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkLnNoYXBlKQo=</text>
+        <text encoding="base64">ICAgIHJlY3QgPQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdFsxLCAwOjZdKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXN1bHRbMDo2LCAyXSA9PSBucC5hcnJheShbXSk=</text>
+        <text encoding="base64">cGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgIGFzc2VydCBucC5jb3VudF9ub256ZXJvKHJlc3VsdCA9PSAneCcpID09IGxlbihleHBlY3RlZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ9Ik1vcmUgYXJndW1lbnRzIHRoYW4gcmVxdWlyZWQiLAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdGVkID0gbnAuYXJyYXkoWyd4JywgJ3gnLCAneCcsICd4JywgJ3gnLCAneCddKQo=</text>
       </register>
     </registers>
   </component>
