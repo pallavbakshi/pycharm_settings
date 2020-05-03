@@ -86,8 +86,8 @@
       <file name="/Dummy.txt" timestamp="1588512513707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588518814637">
-        <mark key="'" line="2" column="23" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588519701622">
+        <mark key="'" line="25" column="25" />
         <mark key="[" line="1" column="18" />
         <mark key="m" line="54" column="65" />
         <mark key="]" line="2" column="24" />
@@ -189,6 +189,7 @@
       <jump line="31" column="19" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="53" column="65" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="2" column="23" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="25" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
