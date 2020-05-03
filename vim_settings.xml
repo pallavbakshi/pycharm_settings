@@ -12,6 +12,7 @@
         <entry>left_line</entry>
         <entry encoding="base64">XDxDT0xPUlw+</entry>
         <entry>np.full</entry>
+        <entry encoding="base64">XDxUdXBsZVw+</entry>
       </history-search>
     </history>
   </component>
@@ -85,12 +86,13 @@
       <file name="/Dummy.txt" timestamp="1588512513707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588515459150">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588518814637">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="1" column="18" />
+        <mark key="m" line="54" column="65" />
+        <mark key="]" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" timestamp="1588517218624">
         <mark key="'" line="55" column="31" />
@@ -100,12 +102,13 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" timestamp="1588511600602" />
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588517120806">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="79" column="55" />
-        <mark key="]" line="79" column="51" />
-        <mark key="." line="79" column="50" />
-        <mark key="^" line="79" column="51" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588518522121">
+        <mark key="'" line="31" column="19" />
+        <mark key="[" line="21" column="69" />
+        <mark key="]" line="21" column="82" />
+        <mark key="m" line="20" column="68" />
+        <mark key="." line="21" column="81" />
+        <mark key="^" line="21" column="82" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588515465054">
         <mark key="g" line="70" column="23" />
@@ -177,56 +180,65 @@
       <jump line="4" column="33" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="112" column="4" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="17" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
+      <jump line="110" column="44" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="23" column="37" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="20" column="68" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
+      <jump line="2" column="19" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
+      <jump line="66" column="29" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
+      <jump line="31" column="19" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
+      <jump line="53" column="65" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="2" column="23" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmKToK</text>
       </register>
       <register name="-" type="4">
-        <text>Creating canvas</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
-        <text>np.full</text>
+        <text encoding="base64">XDxUdXBsZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRpbmcgY2FudmFzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmKToK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RfLmRyYXdfb24oY2FudmFzLmNhbnZhcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfLmRyYXdfb24oY2FudmFzLmNhbnZhcykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk5vIGNhbnZhcyByaWdodCBub3cuIENyZWF0ZSBhIGNhbnZhcyIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3Blbl9jYW52YXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk5vIGNhbnZhcyByaWdodCBub3cuIENyZWF0ZSBhIGNhbnZhcyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIG5hbWUgaW4gWydMJywgJ1InLCAnQicsIF0K</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3Blbl9jYW52YXM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5hbWUgPT0gCg==</text>
+        <text encoding="base64">ICAgIGlmIG5hbWUgaW4gWydMJywgJ1InLCAnQicsIF0K</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>np.full</last-search>
+      <last-search encoding="base64">XDxUdXBsZVw+</last-search>
       <last-offset />
-      <last-pattern>np.full</last-pattern>
+      <last-pattern encoding="base64">XDxUdXBsZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
