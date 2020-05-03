@@ -85,35 +85,49 @@
       <file name="/Dummy.txt" timestamp="1588512513707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588512155343">
-        <mark key="'" line="0" column="46" />
-        <mark key="[" line="31" column="72" />
-        <mark key="]" line="31" column="73" />
-        <mark key="^" line="31" column="73" />
-        <mark key="." line="31" column="72" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588515459150">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="^" line="113" column="0" />
+        <mark key="." line="113" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" timestamp="1588517218624">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" timestamp="1588511600602" />
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588513841094">
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588517120806">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="79" column="70" />
-        <mark key="]" line="79" column="71" />
-        <mark key="." line="79" column="70" />
-        <mark key="^" line="79" column="71" />
+        <mark key="[" line="79" column="55" />
+        <mark key="]" line="79" column="51" />
+        <mark key="." line="79" column="50" />
+        <mark key="^" line="79" column="51" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588514836241">
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588515465054">
         <mark key="g" line="70" column="23" />
-        <mark key="'" line="96" column="10" />
+        <mark key="'" line="112" column="4" />
         <mark key="j" line="90" column="47" />
-        <mark key="[" line="90" column="37" />
+        <mark key="[" line="75" column="18" />
         <mark key="m" line="99" column="28" />
-        <mark key="]" line="90" column="38" />
-        <mark key="^" line="90" column="38" />
-        <mark key="." line="90" column="37" />
+        <mark key="]" line="75" column="20" />
+        <mark key="^" line="75" column="20" />
+        <mark key="." line="75" column="19" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/exceptions.py" timestamp="1588511009066">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/exceptions.py" timestamp="1588515486141">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/command_validation.py" timestamp="1588516054141">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="30" />
+        <mark key="^" line="6" column="30" />
+        <mark key="." line="6" column="29" />
       </file>
       <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588151077205">
         <mark key="e" line="36" column="61" />
@@ -138,7 +152,6 @@
       <jump line="1" column="10" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="56" column="66" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="12" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="100" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="101" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="85" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
@@ -158,50 +171,54 @@
       <jump line="98" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="99" column="28" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="4" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="96" column="10" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="113" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="4" column="33" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
+      <jump line="112" column="4" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
+      <jump line="17" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>'x'])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'x'])</text>
+        <text>Creating canvas</text>
       </register>
       <register name="/" type="4">
         <text>np.full</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCByZXN1bHRbMiwgMTddID09ICdvYCcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRpbmcgY2FudmFzIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfLmRyYXdfb24oY2FudmFzLmNhbnZhcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlY3QgPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk5vIGNhbnZhcyByaWdodCBub3cuIENyZWF0ZSBhIGNhbnZhcyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgb3Blbl9jYW52YXM6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFzc2VydCBucC5jb3VudF9ub256ZXJvKHJlc3VsdCA9PSAneCcpID09IGxlbihleHBlY3RlZCkK</text>
+        <text encoding="base64">ICAgIGlmIG5hbWUgaW4gWydMJywgJ1InLCAnQicsIF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdGVkID0gbnAuYXJyYXkoWyd4JywgJ3gnLCAneCcsICd4JywgJ3gnLCAneCddKQo=</text>
+        <text encoding="base64">ICAgIGlmIG5hbWUgPT0gCg==</text>
       </register>
     </registers>
   </component>
