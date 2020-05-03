@@ -74,8 +74,12 @@
       <file name="/Dummy.txt" timestamp="1588142714031">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1588149310599">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588501530173">
+        <mark key="'" line="12" column="36" />
+        <mark key="[" line="81" column="19" />
+        <mark key="]" line="81" column="20" />
+        <mark key="^" line="81" column="20" />
+        <mark key="." line="81" column="19" />
       </file>
       <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588151077205">
         <mark key="e" line="36" column="61" />
@@ -98,45 +102,47 @@
       <jump line="19" column="24" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="37" column="55" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="1" column="10" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
+      <jump line="56" column="66" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="12" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="0" type="4">
-        <text>&quot;application/json&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0X2xpbmUgPSBMaW5lKHNlbGYuY2FudmFzX3dpZHRoLCBzZWxmLmNhbnZhc19oZWlnaHQsICpzZWxmLnVwcGVyX2xlZnQsICpzZWxmLmxvd2VyX2xlZnQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;application/json&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJwYWdlIl0pCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkZWR1Y2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJkYXRhIl0pCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzLmtleXMoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXJzLmpzb24oKSkK</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHR5cGUodXNlcnMpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJwYWdlIl0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXJzWyJkYXRhIl0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>upper_right</text>
       </register>
     </registers>
   </component>
