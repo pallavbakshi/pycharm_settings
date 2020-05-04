@@ -16,6 +16,7 @@
         <entry>raise</entry>
         <entry>CanvasObj</entry>
         <entry>FillB</entry>
+        <entry>get_connections</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -99,6 +100,11 @@
         <mark key="]" line="108" column="68" />
         <mark key="." line="108" column="67" />
         <mark key="^" line="108" column="68" />
+      </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" timestamp="1588580775992">
+        <mark key="'" line="55" column="18" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="53" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588572168464">
         <mark key="'" line="21" column="40" />
@@ -219,21 +225,25 @@
       <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="108" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="4" column="39" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="26" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
+      <jump line="4" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
+      <jump line="16" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
+      <jump line="55" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>, EMPTY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBza3luZXQudXRpbHMuc2NyaXB0X3V0aWxzIGltcG9ydCBnZXRfY29ubmVjdGlvbnMK</text>
       </register>
       <register name="-" type="4">
         <text>, EMPTY</text>
       </register>
       <register name="/" type="4">
-        <text>FillB</text>
+        <text>get_connections</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGVkX2NhbnZhcyA9IG9wZXJhdGlvbl9vbl9jYW52YXMoUmVjdGFuZ2xlLCBhcmdzXywgb3Blbl9jYW52YXMpCiAgICAgICAgcmV0dXJuIFRydWUsIHVwZGF0ZWRfY2FudmFzCg==</text>
+        <text encoding="base64">ZnJvbSBza3luZXQudXRpbHMuc2NyaXB0X3V0aWxzIGltcG9ydCBnZXRfY29ubmVjdGlvbnMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiRGlzcGxheWluZyBjYW52YXMiKQo=</text>
@@ -266,9 +276,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FillB</last-search>
+      <last-search>get_connections</last-search>
       <last-offset />
-      <last-pattern>FillB</last-pattern>
+      <last-pattern>get_connections</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
