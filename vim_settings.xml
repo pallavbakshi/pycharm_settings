@@ -17,6 +17,7 @@
         <entry>CanvasObj</entry>
         <entry>FillB</entry>
         <entry>get_connections</entry>
+        <entry encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -101,8 +102,8 @@
         <mark key="." line="108" column="67" />
         <mark key="^" line="108" column="68" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" timestamp="1588580775992">
-        <mark key="'" line="55" column="18" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" timestamp="1588586329595">
+        <mark key="'" line="16" column="38" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="53" />
       </file>
@@ -227,8 +228,8 @@
       <jump line="4" column="39" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="26" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
       <jump line="4" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="16" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
       <jump line="55" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
+      <jump line="16" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -240,7 +241,7 @@
         <text>, EMPTY</text>
       </register>
       <register name="/" type="4">
-        <text>get_connections</text>
+        <text encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBza3luZXQudXRpbHMuc2NyaXB0X3V0aWxzIGltcG9ydCBnZXRfY29ubmVjdGlvbnMK</text>
@@ -276,9 +277,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>get_connections</last-search>
+      <last-search encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern>get_connections</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
