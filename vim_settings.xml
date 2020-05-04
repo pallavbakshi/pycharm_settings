@@ -116,12 +116,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588594789221">
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="71" column="70" />
-        <mark key="]" line="71" column="86" />
-        <mark key="." line="71" column="85" />
-        <mark key="^" line="71" column="86" />
+        <mark key="[" line="71" column="58" />
+        <mark key="]" line="71" column="59" />
+        <mark key="." line="71" column="58" />
+        <mark key="^" line="71" column="59" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588572129901">
         <mark key="g" line="70" column="23" />
@@ -259,10 +259,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Warning</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>Warning</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>Warn</text>
