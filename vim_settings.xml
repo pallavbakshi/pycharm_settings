@@ -15,6 +15,7 @@
         <entry encoding="base64">XDxUdXBsZVw+</entry>
         <entry>raise</entry>
         <entry>CanvasObj</entry>
+        <entry>FillB</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -91,12 +92,13 @@
       <file name="/Dummy.txt" timestamp="1588512513707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588570890750">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588577594127">
+        <mark key="'" line="4" column="39" />
+        <mark key="[" line="108" column="54" />
         <mark key="m" line="54" column="65" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="108" column="68" />
+        <mark key="." line="108" column="67" />
+        <mark key="^" line="108" column="68" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588572168464">
         <mark key="'" line="21" column="40" />
@@ -129,11 +131,13 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588572292636">
-        <mark key="[" line="10" column="10" />
-        <mark key="]" line="10" column="27" />
-        <mark key="^" line="10" column="27" />
-        <mark key="." line="10" column="26" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588577308739">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="33" column="26" />
+        <mark key="m" line="21" column="68" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="31" />
       </file>
       <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588151077205">
         <mark key="e" line="36" column="61" />
@@ -209,56 +213,62 @@
       <jump line="79" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="10" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="21" column="40" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
+      <jump line="29" column="68" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
+      <jump line="1" column="62" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="108" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="4" column="39" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>: CanvasObject</text>
+        <text>, EMPTY</text>
       </register>
       <register name="-" type="4">
-        <text>: CanvasObject</text>
+        <text>, EMPTY</text>
       </register>
       <register name="/" type="4">
-        <text>CanvasObj</text>
+        <text>FillB</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRpbmcgY2FudmFzIikK</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGVkX2NhbnZhcyA9IG9wZXJhdGlvbl9vbl9jYW52YXMoUmVjdGFuZ2xlLCBhcmdzXywgb3Blbl9jYW52YXMpCiAgICAgICAgcmV0dXJuIFRydWUsIHVwZGF0ZWRfY2FudmFzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkcmF3c29sZS5jYW52YXNfb2JqZWN0cyBpbXBvcnQgQ2FudmFzT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRGlzcGxheWluZyBjYW52YXMiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkcmF3c29sZS5jYW52YXNfb2JqZWN0cyBpbXBvcnQgQ2FudmFzT2JqZWN0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBkcmF3c29sZS5jYW52YXMgaW1wb3J0IHBhcnNlCg==</text>
+        <text encoding="base64">ICAgIGlmIG5hbWUgPT0gJ1MnOgogICAgICAgIHByaW50KCJEaXNwbGF5aW5nIGNhbnZhcyIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9jYW52YXMoYXJnc18sIGNhbnZhcyk6CiAgICBpZiBjYW52YXMgaXMgbm90IE5vbmU6CiAgICAgICAgcHJpbnQoIkRlbGV0aW5nIG9sZCBjYW52YXMgYW5kIGNyZWF0aW5nIG5ldyBjYW52YXMuIikKICAgIHRyeToKICAgICAgICBjYW52YXMgPSBDYW52YXMoKmFyZ3NfKQogICAgZXhjZXB0IEludmFsaWRBcmd1bWVudHMgYXMgZToKICAgICAgICBwcmludCgiVHJ5IGFnYWluLiBDYW52YXMgY2Fubm90IGJlIGNyZWF0ZWQuICIgKyBzdHIoZSkpCiAgICBlbHNlOgogICAgICAgIGNhbnZhcy5zaG93KCkKICAgIHJldHVybiBjYW52YXMKCgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiRmlsbGluZyBjb2xvciIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiUHJpbnRpbmcgcmVjdGFuZ2xlIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhbnZhcy5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgiU29tZXRoaW5nIHdlbnQgd3JvbmciKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMuc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiQ3JlYXRpbmcgY2FudmFzIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZShzZWxmKToK</text>
+        <text encoding="base64">ZGVmIG9wZXJhdGlvbl9vbl9jYW52YXMobmFtZSwgYXJnc18sIGNhbnZhcyk6CiAgICB0cnk6CiAgICAgICAgb2JqZWN0XyA9IG5hbWUoY2FudmFzLndpZHRoLCBjYW52YXMuaGVpZ2h0LCAqYXJnc18pCiAgICAgICAgY2FudmFzLmFkZChvYmplY3RfKQogICAgZXhjZXB0IEludmFsaWRBcmd1bWVudHM6CiAgICAgICAgcHJpbnQoIlNvbWV0aGluZyB3ZW50IHdyb25nIikKICAgIGVsc2U6CiAgICAgICAgY2FudmFzLnNob3coKQogICAgcmV0dXJuIGNhbnZhcwoKCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>CanvasObj</last-search>
+      <last-search>FillB</last-search>
       <last-offset />
-      <last-pattern>CanvasObj</last-pattern>
+      <last-pattern>FillB</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
