@@ -19,6 +19,8 @@
         <entry>get_connections</entry>
         <entry encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</entry>
         <entry>Invalid</entry>
+        <entry>Fill</entry>
+        <entry>Warn</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -95,13 +97,13 @@
       <file name="/Dummy.txt" timestamp="1588512513707">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588594822540">
-        <mark key="'" line="26" column="22" />
-        <mark key="[" line="22" column="66" />
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="102" column="12" />
         <mark key="m" line="54" column="65" />
-        <mark key="]" line="22" column="65" />
-        <mark key="." line="22" column="64" />
-        <mark key="^" line="22" column="65" />
+        <mark key="]" line="102" column="17" />
+        <mark key="." line="102" column="16" />
+        <mark key="^" line="102" column="17" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" timestamp="1588594663454">
         <mark key="[" line="53" column="0" />
@@ -250,56 +252,58 @@
       <jump line="5" column="32" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="22" column="18" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="26" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="78" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="84" column="6" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNhbnZhcw==</text>
+        <text>Warning</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNhbnZhcw==</text>
+        <text>Warning</text>
       </register>
       <register name="/" type="4">
-        <text>Invalid</text>
+        <text>Warn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWUsIGFyZ3MpCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">OgogICAgICAgICAgICA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KG5hbWUsIGFyZ3MpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmIGxpbmUoY2FudmFzPWNhbnZhcyk6CiAgICByZXR1cm4gTGluZShjYW52YXMud2lkdGgsIGNhbnZhcy5oZWlnaHQsIDEsIDEsIDEsIDMpCgoK</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKCkK</text>
+        <text encoding="base64">ZGVmIGxpbmUoY2FudmFzPWNhbnZhcyk6CiAgICByZXR1cm4gTGluZShjYW52YXMud2lkdGgsIGNhbnZhcy5oZWlnaHQsIDEsIDEsIDEsIDMpCgoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgpjbGFzcyBOb0NhbnZhc0ZvdW5kKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RfID0gY2FudmFzX29iamVjdChjYW52YXMud2lkdGgsICkK</text>
+        <text encoding="base64">CgpjbGFzcyBOb0NhbnZhc0ZvdW5kKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RfID0gY2FudmFzX29iamVjdChjYW52YXMud2lkdGgsICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Invalid</last-search>
+      <last-search>Warn</last-search>
       <last-offset />
-      <last-pattern>Invalid</last-pattern>
+      <last-pattern>Warn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
