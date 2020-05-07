@@ -101,12 +101,14 @@
       <file name="/Dummy.txt" timestamp="1588819809147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588823121829">
-        <mark key="'" line="71" column="0" />
-        <mark key="[" line="70" column="22" />
-        <mark key="]" line="70" column="21" />
-        <mark key="^" line="70" column="21" />
-        <mark key="." line="70" column="20" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588834892099">
+        <mark key="'" line="65" column="54" />
+        <mark key="j" line="0" column="0" />
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="80" column="38" />
+        <mark key="m" line="75" column="33" />
+        <mark key="." line="80" column="37" />
+        <mark key="^" line="80" column="38" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
         <mark key="'" line="73" column="0" />
@@ -178,11 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="3" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
-      <jump line="18" column="21" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
-      <jump line="9" column="27" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
-      <jump line="8" column="40" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
-      <jump line="7" column="10" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="35" column="67" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="19" column="24" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
       <jump line="37" column="55" filename="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" />
@@ -272,52 +269,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="55" column="7" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="58" column="115" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="64" column="71" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="7" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="68" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="71" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="59" column="40" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="64" column="44" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="63" column="51" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="74" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="5" column="15" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="65" column="54" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>period</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>creat_attr</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+      <register name="0" type="4">
+        <text>referrel_engine_{PERIOD}-{CURRENT_MONTH}.pkl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KHVzZXIpCg==</text>
+        <text encoding="base64">ICAgIGZvciBuYW1lLCBhdHRyaWJ1dGUgaW4gYXR0cmlidXRlcy5pdGVtcygpOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVzZXIgPSBpbnRlcmNvbS51c2Vycy5maW5kKGVtYWlsPSJzdWtpMzE3QGdtYWlsLmNvbSIpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQucG9zdChhdHRyaWJ1dGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFzcwo=</text>
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZXMgPSB7CiAgICAgICAgIkdFTyI6IERhdGFBdHRyaWJ1dGUoCiAgICAgICAgICAgICJHZW8iLAogICAgICAgICAgICAiZmxvYXQiLAogICAgICAgICAgICAiR2VvbG9jYXRpb24iLAogICAgICAgICAgICBmIk51bWJlciBvZiB0aW1lcywgdXNlciB1c2VkIEdlb2xvY2F0aW9uIGluIHRoZSBsYXN0IHtQRVJJT0R9IiwKICAgICAgICApLA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0K</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcmNvbSA9IENsaWVudCh0b2tlbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0K</text>
+        <text encoding="base64">ICAgIGludGVyY29tID0gQ2xpZW50KHRva2VuKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REFUQV9BVFRSSUJVVEVTID0gewogICAgIkdFTyI6IERhCn0KCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludGVyY29tID0gQ2xpZW50KHBlcnNvbmFsX2FjY2Vzc190b2tlbj0iZEc5ck9tTm1NMkl6TkdaaFh6Z3haVFJmTkRjMlkxOWhaak5rWDJFM01USXhOams0TmpaaVlUb3hPakE9IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgVXNlcjoKICAgIGRlZiBfX2luaXRfXyhzZWxmKToKICAgICAgICBwYXNzCgoK</text>
       </register>
     </registers>
   </component>
