@@ -22,6 +22,8 @@
         <entry>Fill</entry>
         <entry>Warn</entry>
         <entry>creat_attr</entry>
+        <entry>EXC</entry>
+        <entry>Ex</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -101,14 +103,14 @@
       <file name="/Dummy.txt" timestamp="1588819809147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588839345188">
-        <mark key="'" line="97" column="12" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588841153105">
+        <mark key="'" line="1" column="10" />
         <mark key="j" line="0" column="0" />
-        <mark key="[" line="90" column="32" />
-        <mark key="m" line="97" column="12" />
-        <mark key="]" line="90" column="40" />
-        <mark key="." line="90" column="39" />
-        <mark key="^" line="90" column="40" />
+        <mark key="[" line="83" column="43" />
+        <mark key="m" line="87" column="0" />
+        <mark key="]" line="83" column="43" />
+        <mark key="^" line="83" column="43" />
+        <mark key="." line="83" column="42" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
         <mark key="'" line="73" column="0" />
@@ -180,10 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="66" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="12" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="100" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="101" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="85" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="99" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="0" column="46" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
@@ -277,59 +275,63 @@
       <jump line="65" column="54" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="75" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="24" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="86" column="24" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="27" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="97" column="12" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="101" column="4" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="13" column="7" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="86" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="1" column="10" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>post</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>post</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
-        <text>creat_attr</text>
+        <text>Ex</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">Y3VzdG9tX2F0dHJpYnV0ZXMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cmwgPSBmImh0dHBzOi8vYXBpLmludGVyY29tLmlvL2NvbnRhY3RzL3tpZF99Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhID0geyJjdXN0b21fYXR0cmlidXRlcyI6IGN1c3RvbV9hdHRyaWJ1dGVzfQo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRmKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBFCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHQuCg==</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBFeGNlcHRpb246Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHRyeToK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbDogcm93W2NvbF0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>creat_attr</last-search>
+      <last-search>Ex</last-search>
       <last-offset />
-      <last-pattern>creat_attr</last-pattern>
+      <last-pattern>Ex</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
