@@ -21,6 +21,7 @@
         <entry>Invalid</entry>
         <entry>Fill</entry>
         <entry>Warn</entry>
+        <entry>creat_attr</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -100,12 +101,12 @@
       <file name="/Dummy.txt" timestamp="1588819809147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588821215079">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="16" column="19" />
-        <mark key="." line="16" column="18" />
-        <mark key="^" line="16" column="19" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588823121829">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="70" column="22" />
+        <mark key="]" line="70" column="21" />
+        <mark key="^" line="70" column="21" />
+        <mark key="." line="70" column="20" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
         <mark key="'" line="73" column="0" />
@@ -265,56 +266,66 @@
       <jump line="78" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="84" column="6" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="9" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="36" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="27" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="30" column="28" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="55" column="7" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="58" column="115" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="64" column="71" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="7" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="68" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;application/json&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50KHVzZXIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;application/json&quot;</text>
+        <text>period</text>
       </register>
       <register name="/" type="4">
-        <text>Warn</text>
+        <text>creat_attr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7IkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0K</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVzZXIgPSBpbnRlcmNvbS51c2Vycy5maW5kKGVtYWlsPSJzdWtpMzE3QGdtYWlsLmNvbSIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBkZXRlcm1pbmVfZGF0YV90eXBlKHNlbGYpOgogICAgICAgIHNlbGYuZGF0YV90eXBlID0gdHlwZSgpCgoK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQucG9zdChhdHRyaWJ1dGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">cGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFfdHlwZSA9IGRhdGFfdHlwZQo=</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgQ2xpZW50OgogICAgcGFzcwoKCgoKCg==</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7IkF1dGhvcml6YXRpb24iOiBmIkJlYXJlciB7dG9rZW59IiwgIkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
+        <text encoding="base64">REFUQV9BVFRSSUJVVEVTID0gewogICAgIkdFTyI6IERhCn0KCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW50ZXJjb20gPSBDbGllbnQocGVyc29uYWxfYWNjZXNzX3Rva2VuPSdteV9wZXJzb25hbF9hY2Nlc3NfdG9rZW4nKQo=</text>
+        <text encoding="base64">ICAgIGludGVyY29tID0gQ2xpZW50KHBlcnNvbmFsX2FjY2Vzc190b2tlbj0iZEc5ck9tTm1NMkl6TkdaaFh6Z3haVFJmTkRjMlkxOWhaak5rWDJFM01USXhOams0TmpaaVlUb3hPakE9IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Warn</last-search>
+      <last-search>creat_attr</last-search>
       <last-offset />
-      <last-pattern>Warn</last-pattern>
+      <last-pattern>creat_attr</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
