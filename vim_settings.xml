@@ -94,8 +94,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588512513707">
+      <file name="/start_script.py" timestamp="1588818990743">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588819809147">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588821215079">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="71" column="58" />
+        <mark key="]" line="71" column="59" />
+        <mark key="." line="71" column="58" />
+        <mark key="^" line="71" column="59" />
+      </file>
+      <file name="/a.dummy" timestamp="1588571263482">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="40" column="61" />
+        <mark key="m" line="20" column="68" />
+        <mark key="]" line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+        <mark key="." line="41" column="20" />
+      </file>
+      <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588151077205">
+        <mark key="e" line="36" column="61" />
+        <mark key="'" line="1" column="10" />
+        <mark key="[" line="38" column="43" />
+        <mark key="l" line="9" column="40" />
+        <mark key="m" line="36" column="94" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="43" />
+        <mark key="^" line="38" column="44" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
         <mark key="'" line="84" column="6" />
@@ -116,13 +154,6 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="71" column="58" />
-        <mark key="]" line="71" column="59" />
-        <mark key="." line="71" column="58" />
-        <mark key="^" line="71" column="59" />
-      </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588572129901">
         <mark key="g" line="70" column="23" />
         <mark key="'" line="112" column="4" />
@@ -132,9 +163,6 @@
         <mark key="]" line="83" column="67" />
         <mark key="^" line="83" column="67" />
         <mark key="." line="83" column="66" />
-      </file>
-      <file name="/a.dummy" timestamp="1588571263482">
-        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/exceptions.py" timestamp="1588594246776">
         <mark key="[" line="2" column="0" />
@@ -146,24 +174,6 @@
         <mark key="]" line="6" column="30" />
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="40" column="61" />
-        <mark key="m" line="20" column="68" />
-        <mark key="]" line="41" column="21" />
-        <mark key="^" line="41" column="21" />
-        <mark key="." line="41" column="20" />
-      </file>
-      <file name="$USER_HOME$/ambi/marketing/scripts/referral_tagging.py" timestamp="1588151077205">
-        <mark key="e" line="36" column="61" />
-        <mark key="'" line="1" column="10" />
-        <mark key="[" line="38" column="43" />
-        <mark key="l" line="9" column="40" />
-        <mark key="m" line="36" column="94" />
-        <mark key="]" line="38" column="44" />
-        <mark key="." line="38" column="43" />
-        <mark key="^" line="38" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -254,15 +264,16 @@
       <jump line="26" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="78" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="84" column="6" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>&quot;application/json&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>&quot;application/json&quot;</text>
       </register>
       <register name="/" type="4">
         <text>Warn</text>
@@ -270,32 +281,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">OgogICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGhlYWRlcnMgPSB7IkFjY2VwdCI6ICJhcHBsaWNhdGlvbi9qc29uIiwgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KG5hbWUsIGFyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGV4cGVjdGVkKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBkZXRlcm1pbmVfZGF0YV90eXBlKHNlbGYpOgogICAgICAgIHNlbGYuZGF0YV90eXBlID0gdHlwZSgpCgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3VsdCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGxpbmUoY2FudmFzPWNhbnZhcyk6CiAgICByZXR1cm4gTGluZShjYW52YXMud2lkdGgsIGNhbnZhcy5oZWlnaHQsIDEsIDEsIDEsIDMpCgoK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRhdGFfdHlwZSA9IGRhdGFfdHlwZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QHB5dGVzdC5maXh0dXJlKCkK</text>
+        <text encoding="base64">Y2xhc3MgQ2xpZW50OgogICAgcGFzcwoKCgoKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgpjbGFzcyBOb0NhbnZhc0ZvdW5kKEV4Y2VwdGlvbik6CiAgICBwYXNzCg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RfID0gY2FudmFzX29iamVjdChjYW52YXMud2lkdGgsICkK</text>
+        <text encoding="base64">aW50ZXJjb20gPSBDbGllbnQocGVyc29uYWxfYWNjZXNzX3Rva2VuPSdteV9wZXJzb25hbF9hY2Nlc3NfdG9rZW4nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
     </registers>
   </component>
