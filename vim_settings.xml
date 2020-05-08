@@ -103,13 +103,13 @@
       <file name="/Dummy.txt" timestamp="1588819809147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588846363203">
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588858371341">
         <mark key="'" line="1" column="10" />
         <mark key="j" line="0" column="0" />
-        <mark key="[" line="100" column="43" />
-        <mark key="]" line="101" column="10" />
-        <mark key="^" line="101" column="10" />
-        <mark key="." line="101" column="9" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="155" column="1" />
+        <mark key="^" line="155" column="1" />
+        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
         <mark key="'" line="73" column="0" />
@@ -286,10 +286,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
@@ -298,31 +298,31 @@
         <text encoding="base64">Y3VzdG9tX2F0dHJpYnV0ZXMg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmIGNyZWF0ZV9hdHRyaWJ1dGUoY2xpZW50LCBhdHRyaWJ1dGUpOgogICAgYXR0cmlidXRlLmNyZWF0ZV9hdHRyaWJ1dGUoY2xpZW50KQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBBbHNvIG5lZWQgdG8gaGF2ZSBhIGxhc3QgdXBkYXRlZCBvbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyB3b3JsZCIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IyBBbHNvIG5lZWQgdG8gaGF2ZSBhIGxhc3QgdXBkYXRlZCBvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyB3b3JsZCIpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRmKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBFCg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
     </registers>
   </component>
