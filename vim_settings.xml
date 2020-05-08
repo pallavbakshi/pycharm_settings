@@ -121,14 +121,14 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588929879935">
-        <mark key="'" line="109" column="22" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588932992340">
+        <mark key="'" line="114" column="22" />
         <mark key="g" line="45" column="19" />
-        <mark key="[" line="100" column="44" />
+        <mark key="[" line="105" column="0" />
         <mark key="m" line="63" column="0" />
-        <mark key="]" line="100" column="45" />
-        <mark key="^" line="100" column="45" />
-        <mark key="." line="100" column="44" />
+        <mark key="]" line="105" column="4" />
+        <mark key="." line="105" column="4" />
+        <mark key="^" line="105" column="57" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -303,10 +303,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>to_pickle</text>
+        <text>get_days_since_offline</text>
       </register>
       <register name="-" type="4">
-        <text>to_pickle</text>
+        <text>get_days_since_offline</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
@@ -315,31 +315,31 @@
         <text encoding="base64">ICAgICMgcGh5c2NpYWxfZGV2aWNlX21hcHBpbmcudG9fcGlja2xlKCIuL21hcmtldGluZ19kYXRhc2V0cy9waHlzaWNhbF9kZXZpY2VfbWFwcGluZy5wa2wiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBoeXNjaWFsX2RldmljZV9tYXBwaW5nID0gZ2V0X3VzZXJfZGV2aWNlX21hcHBpbmcoZGJfY25mKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmUgdGhlIGRldmljZSBoYXMgYmVlbiBjb25uZWN0ZWQuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRldmljZV9jb3VudCA9IGZldGNoX2RhdGEoZGJfY25mLCBxdWVyeSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kIHRoZW4gd2UgY2Fubm90IG1ha2UgYW55IGNvbW1lbnQgb24gaXRzIHN0YXR1cy4gSXQgY291bGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5ID0gIiIiU0VMRUNUIGRldmljZV9pZCwgdXNlcl9pZCBGUk9NIFVzZXJEZXZpY2VMaXN0IiIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGEgcGVyaW9kLiBJZiB0aGUgZGV2aWNlIGRpZG4ndCBjaGFuZ2UgaXRzIHN0YXR1cyBkdXJpbmcgdGhlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KFBPU1NJQkxFX0ZFQVRVUkVTLmtleXMoKSkK</text>
+        <text encoding="base64">ICAgIDpwYXJhbTogY29ubmVjdGl2aXR5X3N0YXJ0IG1ha2VzIHN1cmUgd2UgbG9vayBhdCB0aGUgY29ubmVjdGl2aXR5IGRhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmID0gZ2V0X2ZlZWRiYWNrX2NvdW50KGRiX2NuZikK</text>
+        <text encoding="base64">ICAgIEZvciBhIHVzZXIsIHdlIGNob29zZSB0aGUgZGV2aWNlIHdpdGggbWluaW11bSB2YWx1ZSBvZiBkYXlzIHNpbmNlIG9mZmxpbmUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIE51bWJlciBvZiBkYXlzIHNpbmNlIHRoZSBkZXZpY2Ugd2VudCBvZmZsaW5lIGJ1dCBkaWRuJ3QgY29tZSBiYWNrIG9ubGluZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHBoeXNjaWFsX2RldmljZV9tYXBwaW5nID0gZ2V0X3VzZXJfZGV2aWNlX21hcHBpbmcoZGJfY25mKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRldmljZV9jb3VudCA9IGZldGNoX2RhdGEoZGJfY25mLCBxdWVyeSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0gIiIiU0VMRUNUIGRldmljZV9pZCwgdXNlcl9pZCBGUk9NIFVzZXJEZXZpY2VMaXN0IiIiCg==</text>
       </register>
     </registers>
   </component>
