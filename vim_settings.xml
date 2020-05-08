@@ -121,14 +121,14 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588923409024">
-        <mark key="'" line="1" column="18" />
-        <mark key="g" line="40" column="19" />
-        <mark key="[" line="82" column="16" />
-        <mark key="m" line="58" column="0" />
-        <mark key="]" line="82" column="9" />
-        <mark key="^" line="82" column="9" />
-        <mark key="." line="82" column="8" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588925452752">
+        <mark key="'" line="109" column="22" />
+        <mark key="g" line="45" column="19" />
+        <mark key="[" line="96" column="78" />
+        <mark key="m" line="63" column="0" />
+        <mark key="]" line="96" column="78" />
+        <mark key="^" line="96" column="78" />
+        <mark key="." line="96" column="77" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -198,7 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="44" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="74" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="89" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
@@ -298,48 +297,49 @@
       <jump line="28" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="1" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="78" column="0" filename="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" />
+      <jump line="94" column="22" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRldmljZV9jb3VudCA9IGZldGNoX2RhdGEoZGJfY25mLCBxdWVyeSkK</text>
+      <register name="&quot;" type="4">
+        <text>to_pickle</text>
       </register>
       <register name="-" type="4">
-        <text>feedback</text>
+        <text>to_pickle</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZlZWRiYWNrX2NvdW50ID0gZmV0Y2hfZGF0YShkYl9jbmYsIHF1ZXJ5KQogICAgcmV0dXJuIGZlZWRiYWNrX2NvdW50Lmdyb3VwYnkoInVzZXJfaWQiKVsiZmVlZGJhY2siXS5jb3VudCgpLnJlc2V0X2luZGV4KG5hbWU9IlNxbF9mZWVkYmFja19jb3VudCIpCg==</text>
+        <text encoding="base64">ICAgICMgcGh5c2NpYWxfZGV2aWNlX21hcHBpbmcudG9fcGlja2xlKCIuL21hcmtldGluZ19kYXRhc2V0cy9waHlzaWNhbF9kZXZpY2VfbWFwcGluZy5wa2wiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRldmljZV9jb3VudCA9IGZldGNoX2RhdGEoZGJfY25mLCBxdWVyeSkK</text>
+        <text encoding="base64">ICAgIHBoeXNjaWFsX2RldmljZV9tYXBwaW5nID0gZ2V0X3VzZXJfZGV2aWNlX21hcHBpbmcoZGJfY25mKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5ID0gIiIiU0VMRUNUIGRldmljZV9pZCwgdXNlcl9pZCBGUk9NIFVzZXJEZXZpY2VMaXN0IiIiCg==</text>
+        <text encoding="base64">ICAgIGRldmljZV9jb3VudCA9IGZldGNoX2RhdGEoZGJfY25mLCBxdWVyeSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KFBPU1NJQkxFX0ZFQVRVUkVTLmtleXMoKSkK</text>
+        <text encoding="base64">ICAgIHF1ZXJ5ID0gIiIiU0VMRUNUIGRldmljZV9pZCwgdXNlcl9pZCBGUk9NIFVzZXJEZXZpY2VMaXN0IiIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRmID0gZ2V0X2ZlZWRiYWNrX2NvdW50KGRiX2NuZikK</text>
+        <text encoding="base64">ICAgIHByaW50KFBPU1NJQkxFX0ZFQVRVUkVTLmtleXMoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAK</text>
+        <text encoding="base64">ICAgIGRmID0gZ2V0X2ZlZWRiYWNrX2NvdW50KGRiX2NuZikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBTRUxFQ1QgKiBGUk9NIFVzZXJGZWVkYmFjawoKICAgICAgICAiIiIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
