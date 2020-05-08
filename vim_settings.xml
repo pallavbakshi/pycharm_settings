@@ -121,14 +121,14 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588920175048">
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588921162806">
         <mark key="'" line="1" column="18" />
         <mark key="g" line="35" column="19" />
-        <mark key="[" line="45" column="25" />
+        <mark key="[" line="57" column="50" />
         <mark key="m" line="35" column="19" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="45" column="31" />
-        <mark key="." line="45" column="30" />
+        <mark key="]" line="57" column="58" />
+        <mark key="^" line="57" column="58" />
+        <mark key="." line="57" column="57" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -303,43 +303,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(name=&quot;Sql_feedback_count&quot;)</text>
+        <text>created_on</text>
       </register>
       <register name="-" type="4">
-        <text>(name=&quot;Sql_feedback_count&quot;)</text>
+        <text>created_on</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1teXNxbCIsIGRlZmF1bHQ9InZpZXdlciIpCg==</text>
+      <register name="0" type="4">
+        <text>feedback_count</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIG5hbQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBTRUxFQ1QgKiBGUk9NIFVzZXJGZWVkYmFjawoKICAgICAgICAiIiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgKiBGUk9NIFVzZXJGZWVkYmFjawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1ci5leGVjdXRlKAogICAgICAgICIiIgogICAgICAgIFNFTEVDVCAqIEZST00gVXNlckZlZWRiYWNrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jb25maWciLCBkZWZhdWx0PSJjb25maWcueW1sIikK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBTRUxFQ1QgKiBGUk9NIFVzZXJGZWVkYmFjawoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jb25maWciLCBkZWZhdWx0PSJjb25maWcueW1sIikK</text>
+        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICBTRUxFQ1QgKiBGUk9NIFVzZXJGZWVkYmFjawoK</text>
       </register>
     </registers>
   </component>
