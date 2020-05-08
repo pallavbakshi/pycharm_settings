@@ -100,11 +100,11 @@
       <file name="/start_script.py" timestamp="1588818990743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588819809147">
+      <file name="/Dummy.txt" timestamp="1588918607768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588858371341">
-        <mark key="'" line="1" column="10" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588918485625">
+        <mark key="'" line="156" column="0" />
         <mark key="j" line="0" column="0" />
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="1" />
@@ -120,6 +120,15 @@
       </file>
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588920175048">
+        <mark key="'" line="1" column="18" />
+        <mark key="g" line="35" column="19" />
+        <mark key="[" line="45" column="25" />
+        <mark key="m" line="35" column="19" />
+        <mark key="]" line="45" column="31" />
+        <mark key="^" line="45" column="31" />
+        <mark key="." line="45" column="30" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -158,6 +167,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
+        <mark key="'" line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588572129901">
         <mark key="g" line="70" column="23" />
         <mark key="'" line="112" column="4" />
@@ -179,16 +191,13 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/utils/plot_device_data.py" timestamp="1588918572820">
+        <mark key="'" line="212" column="4" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="84" column="40" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="99" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="0" column="46" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="22" column="16" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="66" column="23" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="5" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="44" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="74" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
@@ -281,48 +290,56 @@
       <jump line="12" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="86" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="1" column="10" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
+      <jump line="11" column="44" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/ambi/ambi_brain/utils/plot_device_data.py" />
+      <jump line="212" column="4" filename="$USER_HOME$/ambi/ambi_brain/utils/plot_device_data.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="28" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="1" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="78" column="0" filename="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>(name=&quot;Sql_feedback_count&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>(name=&quot;Sql_feedback_count&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>Ex</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y3VzdG9tX2F0dHJpYnV0ZXMg</text>
+      <register name="0" type="2">
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1teXNxbCIsIGRlZmF1bHQ9InZpZXdlciIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9hdHRyaWJ1dGUoY2xpZW50LCBhdHRyaWJ1dGUpOgogICAgYXR0cmlidXRlLmNyZWF0ZV9hdHRyaWJ1dGUoY2xpZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIG5hbQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBBbHNvIG5lZWQgdG8gaGF2ZSBhIGxhc3QgdXBkYXRlZCBvbgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJIZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRmKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jb25maWciLCBkZWZhdWx0PSJjb25maWcueW1sIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">QGNsaWNrLm9wdGlvbigiLS1jb25maWciLCBkZWZhdWx0PSJjb25maWcueW1sIikK</text>
       </register>
     </registers>
   </component>
