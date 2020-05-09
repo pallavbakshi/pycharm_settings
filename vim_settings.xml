@@ -27,7 +27,9 @@
         <entry>ValueError</entry>
         <entry>mapping</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>ls</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
@@ -342,6 +344,9 @@
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHF1ZXJ5ID0gIiIiU0VMRUNUIGRldmljZV9pZCwgdXNlcl9pZCBGUk9NIFVzZXJEZXZpY2VMaXN0IiIiCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>ls</text>
       </register>
     </registers>
   </component>
