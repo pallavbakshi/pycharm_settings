@@ -24,6 +24,8 @@
         <entry>creat_attr</entry>
         <entry>EXC</entry>
         <entry>Ex</entry>
+        <entry>ValueError</entry>
+        <entry>mapping</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -121,8 +123,8 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588946009171">
-        <mark key="'" line="114" column="22" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588958970254">
+        <mark key="'" line="88" column="49" />
         <mark key="g" line="45" column="19" />
         <mark key="[" line="85" column="48" />
         <mark key="m" line="63" column="0" />
@@ -198,10 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="89" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="3" column="17" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="9" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="98" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
@@ -298,6 +296,10 @@
       <jump line="1" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="78" column="0" filename="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" />
       <jump line="94" column="22" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="72" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="55" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="63" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="88" column="49" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,7 +311,7 @@
         <text>get_days_since_offline</text>
       </register>
       <register name="/" type="4">
-        <text>Ex</text>
+        <text>mapping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcGh5c2NpYWxfZGV2aWNlX21hcHBpbmcudG9fcGlja2xlKCIuL21hcmtldGluZ19kYXRhc2V0cy9waHlzaWNhbF9kZXZpY2VfbWFwcGluZy5wa2wiKQo=</text>
@@ -345,9 +347,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Ex</last-search>
+      <last-search>mapping</last-search>
       <last-offset />
-      <last-pattern>Ex</last-pattern>
+      <last-pattern>mapping</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
