@@ -26,6 +26,7 @@
         <entry>Ex</entry>
         <entry>ValueError</entry>
         <entry>mapping</entry>
+        <entry encoding="base64">XDxNYXhUaW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -126,14 +127,15 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588958970254">
-        <mark key="'" line="88" column="49" />
-        <mark key="g" line="45" column="19" />
-        <mark key="[" line="85" column="48" />
-        <mark key="m" line="63" column="0" />
-        <mark key="]" line="85" column="49" />
-        <mark key="." line="85" column="48" />
-        <mark key="^" line="85" column="49" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589086828876">
+        <mark key="'" line="105" column="72" />
+        <mark key="g" line="46" column="19" />
+        <mark key="j" line="107" column="33" />
+        <mark key="[" line="119" column="0" />
+        <mark key="m" line="107" column="33" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="116" column="12" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -203,15 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="98" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="99" column="28" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="96" column="10" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="4" column="33" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="112" column="4" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="17" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
       <jump line="110" column="44" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="23" column="37" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
@@ -303,36 +296,45 @@
       <jump line="55" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="63" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="88" column="49" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="10" column="12" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="107" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="39" column="23" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="13" column="27" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="12" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="98" column="51" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="99" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="100" column="63" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="105" column="72" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>get_days_since_offline</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="-" type="4">
-        <text>get_days_since_offline</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
-        <text>mapping</text>
+        <text encoding="base64">XDxNYXhUaW1lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcGh5c2NpYWxfZGV2aWNlX21hcHBpbmcudG9fcGlja2xlKCIuL21hcmtldGluZ19kYXRhc2V0cy9waHlzaWNhbF9kZXZpY2VfbWFwcGluZy5wa2wiKQo=</text>
+        <text encoding="base64">QGFkZF90b19wb3NzaWJsZV9mZWF0dXJlcyhuYW1lPSJyZWNlbnRfY29ubmVjdGl2aXR5IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmUgdGhlIGRldmljZSBoYXMgYmVlbiBjb25uZWN0ZWQuCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kIHRoZW4gd2UgY2Fubm90IG1ha2UgYW55IGNvbW1lbnQgb24gaXRzIHN0YXR1cy4gSXQgY291bGQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGEgcGVyaW9kLiBJZiB0aGUgZGV2aWNlIGRpZG4ndCBjaGFuZ2UgaXRzIHN0YXR1cyBkdXJpbmcgdGhlCg==</text>
+        <text encoding="base64">ICAgIGNvbm5lY3Rpdml0eV9zdGFydCA9IGRhdGV0aW1lLnV0Y25vdygpIC0gdGltZWRlbHRhKGRheXM9TEFTVF9DT05ORUNUSVZJVFlfUkFOR0VfREFZUykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbTogY29ubmVjdGl2aXR5X3N0YXJ0IG1ha2VzIHN1cmUgd2UgbG9vayBhdCB0aGUgY29ubmVjdGl2aXR5IGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmUgdGhlIGRldmljZSBoYXMgYmVlbiBjb25uZWN0ZWQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEZvciBhIHVzZXIsIHdlIGNob29zZSB0aGUgZGV2aWNlIHdpdGggbWluaW11bSB2YWx1ZSBvZiBkYXlzIHNpbmNlIG9mZmxpbmUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kIHRoZW4gd2UgY2Fubm90IG1ha2UgYW55IGNvbW1lbnQgb24gaXRzIHN0YXR1cy4gSXQgY291bGQK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3609,16 +3611,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE51bWJlciBvZiBkYXlzIHNpbmNlIHRoZSBkZXZpY2Ugd2VudCBvZmZsaW5lIGJ1dCBkaWRuJ3QgY29tZSBiYWNrIG9ubGluZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGEgcGVyaW9kLiBJZiB0aGUgZGV2aWNlIGRpZG4ndCBjaGFuZ2UgaXRzIHN0YXR1cyBkdXJpbmcgdGhlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBoeXNjaWFsX2RldmljZV9tYXBwaW5nID0gZ2V0X3VzZXJfZGV2aWNlX21hcHBpbmcoZGJfY25mKQo=</text>
+        <text encoding="base64">ICAgIDpwYXJhbTogY29ubmVjdGl2aXR5X3N0YXJ0IG1ha2VzIHN1cmUgd2UgbG9vayBhdCB0aGUgY29ubmVjdGl2aXR5IGRhdGEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRldmljZV9jb3VudCA9IGZldGNoX2RhdGEoZGJfY25mLCBxdWVyeSkK</text>
+        <text encoding="base64">ICAgIEZvciBhIHVzZXIsIHdlIGNob29zZSB0aGUgZGV2aWNlIHdpdGggbWluaW11bSB2YWx1ZSBvZiBkYXlzIHNpbmNlIG9mZmxpbmUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5ID0gIiIiU0VMRUNUIGRldmljZV9pZCwgdXNlcl9pZCBGUk9NIFVzZXJEZXZpY2VMaXN0IiIiCg==</text>
+        <text encoding="base64">ICAgIE51bWJlciBvZiBkYXlzIHNpbmNlIHRoZSBkZXZpY2Ugd2VudCBvZmZsaW5lIGJ1dCBkaWRuJ3QgY29tZSBiYWNrIG9ubGluZS4K</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3627,9 +3629,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mapping</last-search>
+      <last-search encoding="base64">XDxNYXhUaW1lXD4=</last-search>
       <last-offset />
-      <last-pattern>mapping</last-pattern>
+      <last-pattern encoding="base64">XDxNYXhUaW1lXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
