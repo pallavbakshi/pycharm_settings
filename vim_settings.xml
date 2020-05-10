@@ -127,15 +127,15 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589086828876">
-        <mark key="'" line="105" column="72" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589087322303">
+        <mark key="'" line="108" column="72" />
         <mark key="g" line="46" column="19" />
-        <mark key="j" line="107" column="33" />
-        <mark key="[" line="119" column="0" />
-        <mark key="m" line="107" column="33" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="116" column="12" />
+        <mark key="j" line="110" column="33" />
+        <mark key="[" line="78" column="64" />
+        <mark key="m" line="110" column="33" />
+        <mark key="]" line="78" column="75" />
+        <mark key="." line="78" column="74" />
+        <mark key="^" line="78" column="75" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -309,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y3JlYXRlZF9vbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text encoding="base64">Y3JlYXRlZF9vbiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYXhUaW1lXD4=</text>
