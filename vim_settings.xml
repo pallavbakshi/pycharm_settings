@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>FillB</entry>
         <entry>get_connections</entry>
         <entry encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</entry>
         <entry>Invalid</entry>
@@ -27,6 +26,7 @@
         <entry>sum</entry>
         <entry encoding="base64">XDxtYXBwaW5nXD4=</entry>
         <entry>CURRENT_DATE</entry>
+        <entry>power_on</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -133,12 +133,12 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589100012681">
-        <mark key="'" line="132" column="35" />
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="61" column="31" />
-        <mark key="." line="61" column="30" />
-        <mark key="^" line="61" column="31" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589101292354">
+        <mark key="'" line="223" column="37" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="54" column="50" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -208,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="40" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="29" column="68" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="1" column="62" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
@@ -308,36 +306,38 @@
       <jump line="197" column="53" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="126" column="67" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="127" column="35" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="223" column="37" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">TEFTVF9DT05ORUNUSVZJVFlfUkFOR0VfREFZUyA9IDkwCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluX2RmID0gcGQubWVyZ2UobWFpbl9kZiwgZGYsIG9uPSJ1c2VyX2lkIiwgaG93PSJvdXRlciIpCg==</text>
       </register>
       <register name="-" type="4">
         <text>START_DATE</text>
       </register>
       <register name="/" type="4">
-        <text>CURRENT_DATE</text>
+        <text>power_on</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U1RBUlRfREFURSA9IGRhdGV0aW1lLnV0Y25vdygpLmRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">TEFTVF9DT05ORUNUSVZJVFlfUkFOR0VfREFZUyA9IDkwCg==</text>
+        <text encoding="base64">ICAgICAgICBtYWluX2RmID0gcGQubWVyZ2UobWFpbl9kZiwgZGYsIG9uPSJ1c2VyX2lkIiwgaG93PSJvdXRlciIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyAK</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IGZ1bmMoZGJfY25mLCBwaHlzY2lhbF9kZXZpY2VfbWFwcGluZz1waHlzY2lhbF9kZXZpY2VfbWFwcGluZykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoIk5vIHZhbGlkIGZlYXR1cmUgYXZhaWxhYmxlLiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmFtZSwgZnVuYyBpbiBQT1NTSUJMRV9GRUFUVVJFUy5pdGVtcygpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBmZWF0dXJlIGluIFBPU1NJQkxFX0ZFQVRVUkVTOgo=</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3614,16 +3614,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIGlmIGZlYXR1cmUgaXMgTm9uZToK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IGZ1bmMK</text>
+        <text encoding="base64">TEFTVF9DT05ORUNUSVZJVFlfUkFOR0VfREFZUyA9IDkwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAK</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3632,9 +3632,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>CURRENT_DATE</last-search>
+      <last-search>power_on</last-search>
       <last-offset />
-      <last-pattern>CURRENT_DATE</last-pattern>
+      <last-pattern>power_on</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
