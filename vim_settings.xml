@@ -31,6 +31,7 @@
       <history-cmd>
         <entry>ls</entry>
         <entry>history</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -133,7 +134,7 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589105177904">
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589105342350">
         <mark key="'" line="223" column="37" />
         <mark key="[" line="158" column="0" />
         <mark key="]" line="158" column="0" />
@@ -312,7 +313,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9rYXkhIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vbWFpbC5nb29nbGUuY29tL21haWwvdS8wLyNpbmJveAo=</text>
       </register>
       <register name="-" type="4">
         <text>START_DATE</text>
@@ -324,19 +325,19 @@
         <text encoding="base64">U1RBUlRfREFURSA9IGRhdGV0aW1lLnV0Y25vdygpLmRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9rYXkhIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vbWFpbC5nb29nbGUuY29tL21haWwvdS8wLyNpbmJveAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHllYWghIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvbmUhIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIG9rYXkhIGJpdGNoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluX2RmID0gcGQubWVyZ2UobWFpbl9kZiwgZGYsIG9uPSJ1c2VyX2lkIiwgaG93PSJvdXRlciIpCg==</text>
+        <text encoding="base64">ICAgIHllYWghIGJpdGNoCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IGZ1bmMoZGJfY25mLCBwaHlzY2lhbF9kZXZpY2VfbWFwcGluZz1waHlzY2lhbF9kZXZpY2VfbWFwcGluZykK</text>
+        <text encoding="base64">ICAgIGRvbmUhIGJpdGNoCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3613,19 +3614,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAK</text>
+        <text encoding="base64">ICAgICAgICBtYWluX2RmID0gcGQubWVyZ2UobWFpbl9kZiwgZGYsIG9uPSJ1c2VyX2lkIiwgaG93PSJvdXRlciIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmFtZSwgZnVuYyBpbiBQT1NTSUJMRV9GRUFUVVJFUy5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IGZ1bmMoZGJfY25mLCBwaHlzY2lhbF9kZXZpY2VfbWFwcGluZz1waHlzY2lhbF9kZXZpY2VfbWFwcGluZykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIGZlYXR1cmUgaXMgTm9uZToK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbmFtZSwgZnVuYyBpbiBQT1NTSUJMRV9GRUFUVVJFUy5pdGVtcygpOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>history</text>
+        <text>reg</text>
       </register>
     </registers>
   </component>
