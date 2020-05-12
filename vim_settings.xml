@@ -134,11 +134,11 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589105342350">
-        <mark key="'" line="223" column="37" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589286564474">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="62" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="108" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
@@ -308,12 +307,13 @@
       <jump line="127" column="35" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="57" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="223" column="37" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="115" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vbWFpbC5nb29nbGUuY29tL21haWwvdS8wLyNpbmJveAo=</text>
+        <text encoding="base64">Y2xhc3MK</text>
       </register>
       <register name="-" type="4">
         <text>START_DATE</text>
@@ -325,19 +325,19 @@
         <text encoding="base64">U1RBUlRfREFURSA9IGRhdGV0aW1lLnV0Y25vdygpLmRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vbWFpbC5nb29nbGUuY29tL21haWwvdS8wLyNpbmJveAo=</text>
+        <text encoding="base64">Y2xhc3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB1c2VyX2ludGVyYWN0aW9ucy5yZW5hbWUoCiAgICAgICAgY29sdW1ucz17Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG9rYXkhIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vbWFpbC5nb29nbGUuY29tL21haWwvdS8wLyNpbmJveAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHllYWghIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIGh0dHBzOi8vd3d3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvbmUhIGJpdGNoCg==</text>
+        <text encoding="base64">ICAgIG9rYXkhIGJpdGNoCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3614,16 +3614,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYWluX2RmID0gcGQubWVyZ2UobWFpbl9kZiwgZGYsIG9uPSJ1c2VyX2lkIiwgaG93PSJvdXRlciIpCg==</text>
+        <text encoding="base64">ICAgIHllYWghIGJpdGNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZiA9IGZ1bmMoZGJfY25mLCBwaHlzY2lhbF9kZXZpY2VfbWFwcGluZz1waHlzY2lhbF9kZXZpY2VfbWFwcGluZykK</text>
+        <text encoding="base64">ICAgIGRvbmUhIGJpdGNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbmFtZSA9PSAK</text>
+        <text encoding="base64">ICAgICAgICBtYWluX2RmID0gcGQubWVyZ2UobWFpbl9kZiwgZGYsIG9uPSJ1c2VyX2lkIiwgaG93PSJvdXRlciIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbmFtZSwgZnVuYyBpbiBQT1NTSUJMRV9GRUFUVVJFUy5pdGVtcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICBkZiA9IGZ1bmMoZGJfY25mLCBwaHlzY2lhbF9kZXZpY2VfbWFwcGluZz1waHlzY2lhbF9kZXZpY2VfbWFwcGluZykK</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
