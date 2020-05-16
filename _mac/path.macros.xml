@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="/private/var/folders/hb/pychzxcd5rs62w1xw648454w0000gp/T/AppTranslocation/43D620DF-A1D7-4DC0-A904-0BFC38666AFA/d/Android Studio.app/Contents/plugins/Kotlin/kotlinc" />
+  </component>
+</application>
