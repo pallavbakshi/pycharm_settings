@@ -26,6 +26,7 @@
         <entry>Ex</entry>
         <entry>ValueError</entry>
         <entry>mapping</entry>
+        <entry>textColor</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -190,7 +191,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/layout/activity_fullscreen.xml" timestamp="1589608732132">
+      <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/layout/activity_fullscreen.xml" timestamp="1589610639172">
+        <mark key="'" line="11" column="12" />
         <mark key="." line="22" column="106" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/command_validation.py" timestamp="1588516054141">
@@ -206,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="98" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="99" column="28" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
@@ -306,6 +307,7 @@
       <jump line="55" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="63" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="88" column="49" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="11" column="12" filename="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/layout/activity_fullscreen.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +319,7 @@
         <text>get_days_since_offline</text>
       </register>
       <register name="/" type="4">
-        <text>mapping</text>
+        <text>textColor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICMgcGh5c2NpYWxfZGV2aWNlX21hcHBpbmcudG9fcGlja2xlKCIuL21hcmtldGluZ19kYXRhc2V0cy9waHlzaWNhbF9kZXZpY2VfbWFwcGluZy5wa2wiKQo=</text>
@@ -3630,9 +3632,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mapping</last-search>
+      <last-search>textColor</last-search>
       <last-offset />
-      <last-pattern>mapping</last-pattern>
+      <last-pattern>textColor</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
