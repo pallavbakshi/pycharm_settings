@@ -154,6 +154,12 @@
         <mark key="." line="38" column="43" />
         <mark key="^" line="38" column="44" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/values/strings.xml" timestamp="1589779783387">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="48" />
+        <mark key="^" line="4" column="49" />
+      </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
         <mark key="'" line="84" column="6" />
         <mark key="[" line="102" column="12" />
@@ -313,10 +319,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>get_days_since_offline</text>
+        <text>DUMMY\nCONTENT</text>
       </register>
       <register name="-" type="4">
-        <text>get_days_since_offline</text>
+        <text>DUMMY\nCONTENT</text>
       </register>
       <register name="/" type="4">
         <text>textColor</text>
