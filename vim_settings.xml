@@ -106,9 +106,6 @@
       <file name="/start_script.py" timestamp="1588818990743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590208541894">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588918485625">
         <mark key="'" line="156" column="0" />
         <mark key="j" line="0" column="0" />
@@ -141,39 +138,17 @@
         <mark key="^" line="41" column="21" />
         <mark key="." line="41" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_view.xml" timestamp="1590227993635">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="25" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_view.xml" timestamp="1590231081182">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/values/strings.xml" timestamp="1589779783387">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="49" />
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="49" />
-      </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
-        <mark key="'" line="84" column="6" />
-        <mark key="[" line="102" column="12" />
-        <mark key="m" line="54" column="65" />
-        <mark key="]" line="102" column="17" />
-        <mark key="." line="102" column="16" />
-        <mark key="^" line="102" column="17" />
-      </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" timestamp="1588594663454">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="42" column="33" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" timestamp="1588592036015">
-        <mark key="'" line="16" column="38" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="53" />
-      </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
-        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/exceptions.py" timestamp="1588594246776">
         <mark key="[" line="2" column="0" />
@@ -189,6 +164,38 @@
         <mark key="'" line="11" column="12" />
         <mark key="." line="22" column="106" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590232845386">
+        <mark key="[" line="15" column="39" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="48" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/build.gradle" timestamp="1590215456625">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="4" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590208541894">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="102" column="12" />
+        <mark key="m" line="54" column="65" />
+        <mark key="]" line="102" column="17" />
+        <mark key="." line="102" column="16" />
+        <mark key="^" line="102" column="17" />
+      </file>
+      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" timestamp="1588594663454">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="42" column="33" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
+        <mark key="'" line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" timestamp="1590216668248">
         <mark key="'" line="465" column="4" />
       </file>
@@ -196,12 +203,6 @@
         <mark key="'" line="212" column="4" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="84" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/build.gradle" timestamp="1590215456625">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -310,10 +311,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>first_question</text>
+        <text>radiobutton.types.OneFieldCustomRadioButton</text>
       </register>
       <register name="-" type="4">
-        <text>first_question</text>
+        <text>radiobutton.types.OneFieldCustomRadioButton</text>
       </register>
       <register name="/" type="4">
         <text>textColor</text>
@@ -322,19 +323,19 @@
         <text encoding="base64">ICAgICAgICB0b29sczpzcmM9Ij9hbmRyb2lkOmF0dHIvbGlzdENob2ljZUluZGljYXRvclNpbmdsZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9Ij9hbmRyb2lkOmF0dHIvbGlzdENob2ljZUluZGljYXRvclNpbmdsZSIgLz4K</text>
+        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JhZGlvX3ZpZXdfaW1hZ2UiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjEzNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMTI4ZHAiCiAgICAgICAgYW5kcm9pZDpjb250ZW50RGVzY3JpcHRpb249IkNpcmNsZSBib3JkZXIgaW1hZ2UiCiAgICAgICAgYW5kcm9pZDpzcmM9Ij9hbmRyb2lkOmF0dHIvbGlzdENob2ljZUluZGljYXRvclNpbmdsZSIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPgoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9Ij9hbmRyb2lkOmF0dHIvbGlzdENob2ljZUluZGljYXRvclNpbmdsZSIgLz4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
+        <text encoding="base64">PC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3611,16 +3612,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkgImNvbS5naXRodWIuc2t5ZG92ZXM6Y29sb3JwaWNrZXJ2aWV3Igo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmUgdGhlIGRldmljZSBoYXMgYmVlbiBjb25uZWN0ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kIHRoZW4gd2UgY2Fubm90IG1ha2UgYW55IGNvbW1lbnQgb24gaXRzIHN0YXR1cy4gSXQgY291bGQK</text>
+        <text encoding="base64">ICAgICAgICBhcGkgImNvbS5naXRodWIuc2t5ZG92ZXM6Y29sb3JwaWNrZXJ2aWV3Igo=</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
