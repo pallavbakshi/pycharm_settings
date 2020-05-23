@@ -141,6 +141,12 @@
         <mark key="^" line="41" column="21" />
         <mark key="." line="41" column="20" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_view.xml" timestamp="1590227993635">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="25" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="9" column="25" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/values/strings.xml" timestamp="1589779783387">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="4" column="49" />
@@ -174,16 +180,6 @@
       </file>
       <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
         <mark key="'" line="78" column="0" />
-      </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" timestamp="1588572129901">
-        <mark key="g" line="70" column="23" />
-        <mark key="'" line="112" column="4" />
-        <mark key="j" line="90" column="47" />
-        <mark key="[" line="83" column="65" />
-        <mark key="m" line="99" column="28" />
-        <mark key="]" line="83" column="67" />
-        <mark key="^" line="83" column="67" />
-        <mark key="." line="83" column="66" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/exceptions.py" timestamp="1588594246776">
         <mark key="[" line="2" column="0" />
@@ -319,32 +315,32 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>radio_button_three_fields_image</text>
       </register>
       <register name="-" type="4">
-        <text>compile</text>
+        <text>radio_button_three_fields_image</text>
       </register>
       <register name="/" type="4">
         <text>textColor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcGh5c2NpYWxfZGV2aWNlX21hcHBpbmcudG9fcGlja2xlKCIuL21hcmtldGluZ19kYXRhc2V0cy9waHlzaWNhbF9kZXZpY2VfbWFwcGluZy5wa2wiKQo=</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9Ij9hbmRyb2lkOmF0dHIvbGlzdENob2ljZUluZGljYXRvclNpbmdsZSIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b29sczpzcmM9Ij9hbmRyb2lkOmF0dHIvbGlzdENob2ljZUluZGljYXRvclNpbmdsZSIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
+        <text encoding="base64">PC9hbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkgImNvbS5naXRodWIuc2t5ZG92ZXM6Y29sb3JwaWNrZXJ2aWV3Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmUgdGhlIGRldmljZSBoYXMgYmVlbiBjb25uZWN0ZWQuCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3621,16 +3617,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kIHRoZW4gd2UgY2Fubm90IG1ha2UgYW55IGNvbW1lbnQgb24gaXRzIHN0YXR1cy4gSXQgY291bGQK</text>
+        <text encoding="base64">ICAgICAgICBpbXBsZW1lbnRhdGlvbiAiY29tLmdpdGh1Yi5za3lkb3Zlczpjb2xvcnBpY2tlcnByZWZlcmVuY2U6Mi4wLjAiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGEgcGVyaW9kLiBJZiB0aGUgZGV2aWNlIGRpZG4ndCBjaGFuZ2UgaXRzIHN0YXR1cyBkdXJpbmcgdGhlCg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkgImNvbS5naXRodWIuc2t5ZG92ZXM6Y29sb3JwaWNrZXJ2aWV3Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbTogY29ubmVjdGl2aXR5X3N0YXJ0IG1ha2VzIHN1cmUgd2UgbG9vayBhdCB0aGUgY29ubmVjdGl2aXR5IGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmUgdGhlIGRldmljZSBoYXMgYmVlbiBjb25uZWN0ZWQuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZvciBhIHVzZXIsIHdlIGNob29zZSB0aGUgZGV2aWNlIHdpdGggbWluaW11bSB2YWx1ZSBvZiBkYXlzIHNpbmNlIG9mZmxpbmUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGVyaW9kIHRoZW4gd2UgY2Fubm90IG1ha2UgYW55IGNvbW1lbnQgb24gaXRzIHN0YXR1cy4gSXQgY291bGQK</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
