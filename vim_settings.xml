@@ -124,9 +124,6 @@
         <mark key="." line="71" column="58" />
         <mark key="^" line="71" column="59" />
       </file>
-      <file name="/a.dummy" timestamp="1588571263482">
-        <mark key="[" line="0" column="1" />
-      </file>
       <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588958970254">
         <mark key="'" line="88" column="49" />
         <mark key="g" line="45" column="19" />
@@ -151,10 +148,10 @@
         <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590215649303">
-        <mark key="[" line="52" column="68" />
-        <mark key="]" line="59" column="49" />
-        <mark key="^" line="59" column="49" />
-        <mark key="." line="59" column="48" />
+        <mark key="[" line="47" column="68" />
+        <mark key="]" line="52" column="49" />
+        <mark key="^" line="52" column="49" />
+        <mark key="." line="52" column="48" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
         <mark key="'" line="84" column="6" />
@@ -202,6 +199,9 @@
         <mark key="'" line="11" column="12" />
         <mark key="." line="22" column="106" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" timestamp="1590216668248">
+        <mark key="'" line="465" column="4" />
+      </file>
       <file name="$USER_HOME$/ambi/ambi_brain/utils/plot_device_data.py" timestamp="1588918572820">
         <mark key="'" line="212" column="4" />
         <mark key="[" line="83" column="0" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="99" column="28" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="96" column="10" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
@@ -315,6 +314,7 @@
       <jump line="63" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="88" column="49" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="11" column="12" filename="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/layout/activity_fullscreen.xml" />
+      <jump line="465" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
