@@ -114,6 +114,12 @@
         <mark key="^" line="155" column="1" />
         <mark key="." line="155" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590297425135">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+        <mark key="." line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" timestamp="1588599058608">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="71" column="58" />
@@ -159,11 +165,12 @@
         <mark key="'" line="11" column="12" />
         <mark key="." line="22" column="106" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590296743771">
-        <mark key="'" line="13" column="16" />
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590297816691">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="30" column="17" />
+        <mark key="]" line="31" column="4" />
+        <mark key="^" line="31" column="4" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/build.gradle" timestamp="1590215456625">
         <mark key="[" line="37" column="0" />
@@ -174,28 +181,15 @@
       <file name="/Dummy.txt" timestamp="1590208541894">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
-        <mark key="'" line="84" column="6" />
-        <mark key="[" line="102" column="12" />
-        <mark key="m" line="54" column="65" />
-        <mark key="]" line="102" column="17" />
-        <mark key="." line="102" column="16" />
-        <mark key="^" line="102" column="17" />
-      </file>
-      <file name="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" timestamp="1588594663454">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="42" column="33" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
         <mark key="'" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590296951348">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="26" />
-        <mark key="^" line="4" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable/ic_launcher_background.xml" timestamp="1590297269207" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590297191331">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" timestamp="1590216668248">
         <mark key="'" line="465" column="4" />
@@ -207,9 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="10" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="113" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="4" column="33" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="112" column="4" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas_objects.py" />
       <jump line="17" column="31" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
@@ -307,36 +298,39 @@
       <jump line="465" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" />
       <jump line="15" column="47" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" />
       <jump line="16" column="16" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" />
+      <jump line="7" column="7" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" />
+      <jump line="4" column="7" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>height</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>13</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8UmFkaW9CdXR0b24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb19sZWZ0IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvY2lyY2xlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDEzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">MQogICAgMgogICAgMwogICAgNAogICAgNQogICAgNgogICAgNwogICAgOAogICAgOQogICAgMTAKICAgIDExCiAgICAxMgogICAg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dCB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKPC9MaW5lYXJMYXlvdXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxwYXRoCiAgICAgICAgYW5kcm9pZDpmaWxsQ29sb3I9IiNmZmEwMDAiCiAgICAgICAgYW5kcm9pZDpwYXRoRGF0YT0iTTIyLDMyCiAgICAgICAgQTEwLDEwIDAgMSwxIDQyLDMyCiAgICAgICAgQTEwLDEwIDAgMSwxIDIyLDMyIFoiIC8+CjwvdmVjdG9yPgo8TGluZWFyTGF5b3V0IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3613,16 +3607,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIwIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDppZD0K</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNoYXBlIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgIGFuZHJvaWQ6c2hhcGU9Im92YWwiPgogICAgPHN0cm9rZQogICAgICAgIGFuZHJvaWQ6d2lkdGg9IjFkcCIKICAgICAgICBhbmRyb2lkOmNvbG9yPSIjNzhkOWZmIi8+Cjwvc2hhcGU+</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
