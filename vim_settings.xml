@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxDT0xPUlw+</entry>
-        <entry>np.full</entry>
-        <entry encoding="base64">XDxUdXBsZVw+</entry>
         <entry>raise</entry>
         <entry>CanvasObj</entry>
         <entry>FillB</entry>
@@ -27,6 +24,9 @@
         <entry>13</entry>
         <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
         <entry>generate_blocking</entry>
+        <entry>generateBl</entry>
+        <entry>setSize</entry>
+        <entry>setValue</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -180,11 +180,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/MainActivity.kt" timestamp="1590318912359" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" timestamp="1590319049519">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" timestamp="1590319609267">
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="4" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590315919413">
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="80" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="69" column="12" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
       <jump line="72" column="12" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
@@ -309,36 +308,37 @@
       <jump line="80" column="34" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="87" column="12" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" />
+      <jump line="58" column="49" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblNpemVDaGFuZ2VkKHc6IEludCwgaDogSW50LCBvbGR3OiBJbnQsIG9sZGg6IEludCkgewogICAgICAgIHN1cGVyLm9uU2l6ZUNoYW5nZWQodywgaCwgb2xkdywgb2xkaCkKICAgICAgICBpZiAodyAhPSBvbGR3IHx8IGggIT0gb2xkaCkgewogICAgICAgICAgICBiaXRtYXBHZW5lcmF0b3Iuc2V0U2l6ZSh3LCBoKQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>AppCompatActivity</text>
       </register>
       <register name="/" type="4">
-        <text>generate_blocking</text>
+        <text>setValue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblNpemVDaGFuZ2VkKHc6IEludCwgaDogSW50LCBvbGR3OiBJbnQsIG9sZGg6IEludCkgewogICAgICAgIHN1cGVyLm9uU2l6ZUNoYW5nZWQodywgaCwgb2xkdywgb2xkaCkKICAgICAgICBpZiAodyAhPSBvbGR3IHx8IGggIT0gb2xkaCkgewogICAgICAgICAgICBiaXRtYXBHZW5lcmF0b3Iuc2V0U2l6ZSh3LCBoKQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3615,16 +3615,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uc3R5bGluZ2FuZHJvaWQuY29sb3Vyd2hlZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvbWFya2VyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hYm92ZT0iQGlkL3YiPgogICAgICAgIDwvaW5jbHVkZT4KCg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uc3R5bGluZ2FuZHJvaWQuY29sb3Vyd2hlZWwK</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3633,9 +3633,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>generate_blocking</last-search>
+      <last-search>setValue</last-search>
       <last-offset />
-      <last-pattern>generate_blocking</last-pattern>
+      <last-pattern>setValue</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
