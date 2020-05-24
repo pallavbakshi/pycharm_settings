@@ -106,7 +106,7 @@
       <file name="/start_script.py" timestamp="1588818990743">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590298286636">
+      <file name="/Dummy.txt" timestamp="1590303184661">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588918485625">
@@ -123,11 +123,11 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="91" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590297425135">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="25" />
-        <mark key="^" line="15" column="25" />
-        <mark key="." line="15" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590303414330">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="69" />
       </file>
       <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588958970254">
         <mark key="'" line="88" column="49" />
@@ -150,18 +150,18 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590298649416">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="40" />
-        <mark key="^" line="7" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590301604486">
+        <mark key="[" line="10" column="34" />
+        <mark key="]" line="10" column="34" />
+        <mark key="." line="10" column="39" />
+        <mark key="^" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590300227569">
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590302502085">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="26" column="50" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="49" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="33" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="33" />
       </file>
       <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
         <mark key="'" line="78" column="0" />
@@ -314,32 +314,32 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludERpbWVuc2lvblJhdGlvPSIxOjEiCg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>13</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludERpbWVuc2lvblJhdGlvPSIxOjEiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxjb20uc2t5ZG92ZXMuY29sb3JwaWNrZXJ2aWV3LkNvbG9yUGlja2VyVmlldwogICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb2xvclBpY2tlclZpZXciCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzAwZHAiCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjMwMGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0iY2VudGVyIgogICAgICAgICAgICAgICAgYXBwOnBhbGV0dGU9IkBkcmF3YWJsZS9wYWxldHRlIgogICAgICAgICAgICAgICAgYXBwOnNlbGVjdG9yPSJAZHJhd2FibGUvd2hlZWwiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJGSVJTVCBUSUxFIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpvcmllbnRhdGlvbj0idmVydGljYWwiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxSYWRpb0dyb3VwCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb19ncm91cCIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJob3Jpem9udGFsIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgICAgICA8UmFkaW9CdXR0b24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb19sZWZ0IgogICAgICAgICAgICBhbmRyb2lkOmJ1dHRvbj0iQGRyYXdhYmxlL2ljX2JyaWdodG5lc3NfMV9ibGFja18yNGRwIgogICAgICAgICAgICBhbmRyb2lkOmNoZWNrZWQ9InRydWUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IiAvPgogICAgICAgIDxSYWRpb0J1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JhZGlvX2NlbnRlciIKICAgICAgICAgICAgYW5kcm9pZDpidXR0b249IkBkcmF3YWJsZS9pY19icmlnaHRuZXNzXzFfYmxhY2tfMjRkcCIKICAgICAgICAgICAgYW5kcm9pZDpjaGVja2VkPSJmYWxzZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4KICAgICAgICA8UmFkaW9CdXR0b24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb19yaWdodCIKICAgICAgICAgICAgYW5kcm9pZDpidXR0b249IkBkcmF3YWJsZS9pY19icmlnaHRuZXNzXzFfYmxhY2tfMjRkcCIKICAgICAgICAgICAgYW5kcm9pZDpjaGVja2VkPSJmYWxzZSIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiLz4KCiAgICA8L1JhZGlvR3JvdXA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpidXR0b249IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50Igo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3616,16 +3616,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmllCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvY2lyY2xlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvY2lyY2xlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
