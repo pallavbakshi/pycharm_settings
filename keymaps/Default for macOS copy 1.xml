@@ -1,0 +1,21 @@
+<keymap version="1" name="Default for macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="CheckinProject" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="InsertLiveTemplate" />
+  <action id="Macro.10 DOWN">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="Macro.10 UP">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+  </action>
+  <action id="Vcs.Push" />
+</keymap>
