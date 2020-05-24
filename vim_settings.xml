@@ -145,19 +145,19 @@
         <mark key="." line="11" column="38" />
         <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590312944234">
-        <mark key="'" line="87" column="12" />
-        <mark key="[" line="87" column="48" />
-        <mark key="m" line="87" column="12" />
-        <mark key="]" line="88" column="37" />
-        <mark key="." line="88" column="36" />
-        <mark key="^" line="88" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590315919413">
+        <mark key="'" line="89" column="12" />
+        <mark key="[" line="100" column="20" />
+        <mark key="m" line="89" column="12" />
+        <mark key="]" line="101" column="34" />
+        <mark key="^" line="101" column="34" />
+        <mark key="." line="101" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/marker.xml" timestamp="1590310678560">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/marker.xml" timestamp="1590316114840">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
         <mark key="'" line="78" column="0" />
@@ -310,32 +310,32 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iIgo=</text>
+      <register name="&quot;" type="4">
+        <text>tvProgress</text>
       </register>
       <register name="-" type="4">
-        <text>colorSecondaryWhite</text>
+        <text>tvProgress</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JvbGxWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iIgo=</text>
+        <text encoding="base64">ICAgICAgICA8aW5jbHVkZQogICAgICAgICAgICBsYXlvdXQ9IkBsYXlvdXQvbWFya2VyIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hYm92ZT0iQGlkL3YiPgogICAgICAgIDwvaW5jbHVkZT4KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kVGludD0iQGNvbG9yL2NvbG9yVGhpcmRUaWxlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI4ZHAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrCg==</text>
+        <text encoding="base64">PCEtLSAgICAgICAgPGluY2x1ZGUtLT4KPCEtLSAgICAgICAgICAgIGxheW91dD0iQGxheW91dC9tYXJrZXIiLS0+CjwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgo8IS0tICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CjwhLS0gICAgICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiLS0+CjwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF9hYm92ZT0iQGlkL3YiPi0tPgo8IS0tICAgICAgICA8L2luY2x1ZGU+LS0+Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iMjBkcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIwZHAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8U2Vla0JhcgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSIyMGRwIgogICAgICAgICAgICBhbmRyb2lkOnByb2dyZXNzVGludD0iQGNvbG9yL3doaXRlIgogICAgICAgICAgICBhbmRyb2lkOnByb2dyZXNzQmFja2dyb3VuZFRpbnQ9IkBjb2xvci9jb2xvclNlY29uZGFyeUJhY2tncm91bmQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGh1bWJUaW50PSJAY29sb3Ivd2hpdGUiCiAgICAgICAgICAgIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luPSI4ZHAiCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3612,16 +3612,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kVGludD0iQGNvbG9yL2NvbG9yU2Vjb25kYXJ5QmFja2dyb3VuZCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMTBkcCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9ncmVzc1RpbnQ9IkBjb2xvci93aGl0ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTBkcCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iMTBkcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwcm9ncmVzc0JhY2tncm91bmRUaW50TW9kZT0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luQm90dG9tPSIwZHAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
