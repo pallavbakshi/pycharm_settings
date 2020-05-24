@@ -103,9 +103,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1588818990743">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590303184661">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,18 +147,18 @@
         <mark key="." line="4" column="48" />
         <mark key="^" line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590301604486">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590304362723">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="10" column="40" />
         <mark key="." line="10" column="39" />
-        <mark key="^" line="9" column="41" />
+        <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590302502085">
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590305616340">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="33" />
-        <mark key="." line="21" column="32" />
-        <mark key="^" line="21" column="33" />
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="40" column="45" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="45" />
       </file>
       <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
         <mark key="'" line="78" column="0" />
@@ -315,31 +312,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>13</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdGlsZV9zZWxlY3RvciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpjaGVja2VkPSJ0cnVlIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJGSVJTVCBUSUxFIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JTZWxlY3RlZCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3IvY29sb3JTZWxlY3RlZCIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpidXR0b249IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdGlsZV9zZWxlY3RvciIK</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3616,16 +3613,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmllCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJGSVJTVCBUSUxFIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
