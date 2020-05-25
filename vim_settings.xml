@@ -16,7 +16,6 @@
         <entry>EXC</entry>
         <entry>Ex</entry>
         <entry>ValueError</entry>
-        <entry>mapping</entry>
         <entry encoding="base64">XDxNYXhUaW1lXD4=</entry>
         <entry encoding="base64">XDxzdGF0ZXNfY29weVw+</entry>
         <entry encoding="base64">XDxkdW1teV9tb2RlX3VzYWdlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry encoding="base64">XDxtYXBwaW5nXD4=</entry>
         <entry>CURRENT_DATE</entry>
         <entry>power_on</entry>
+        <entry>mapping</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -134,11 +134,12 @@
       <file name="/a.dummy" timestamp="1588571263482">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1589286564474">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1590152228841">
+        <mark key="'" line="55" column="70" />
+        <mark key="[" line="52" column="7" />
+        <mark key="]" line="52" column="7" />
+        <mark key="." line="52" column="6" />
+        <mark key="^" line="52" column="7" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" timestamp="1588599126421">
         <mark key="'" line="21" column="0" />
@@ -157,6 +158,9 @@
         <mark key="]" line="38" column="44" />
         <mark key="." line="38" column="43" />
         <mark key="^" line="38" column="44" />
+      </file>
+      <file name="/" timestamp="1590152897478">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" timestamp="1588596708285">
         <mark key="'" line="84" column="6" />
@@ -208,16 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="108" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="4" column="39" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="26" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="4" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="55" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="16" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="75" column="65" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="44" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
       <jump line="21" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="3" column="40" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
@@ -267,7 +261,6 @@
       <jump line="78" column="0" filename="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" />
       <jump line="94" column="22" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="72" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
-      <jump line="55" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="63" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="88" column="49" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="10" column="12" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
@@ -296,18 +289,29 @@
       <jump line="252" column="75" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="249" column="70" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="58" column="41" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
-      <jump line="205" column="58" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
-      <jump line="207" column="25" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="264" column="21" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="12" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="143" column="61" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
-      <jump line="193" column="61" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="197" column="53" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="126" column="67" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="127" column="35" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="57" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="223" column="37" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
       <jump line="115" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="170" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="193" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="202" column="65" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="205" column="58" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="207" column="25" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="213" column="26" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="43" column="29" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="46" column="46" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="47" column="20" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="48" column="46" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="50" column="22" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="51" column="48" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
+      <jump line="55" column="70" filename="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +323,7 @@
         <text>START_DATE</text>
       </register>
       <register name="/" type="4">
-        <text>power_on</text>
+        <text>mapping</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U1RBUlRfREFURSA9IGRhdGV0aW1lLnV0Y25vdygpLmRhdGUoKQo=</text>
