@@ -115,15 +115,6 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588958970254">
-        <mark key="'" line="88" column="49" />
-        <mark key="g" line="45" column="19" />
-        <mark key="[" line="85" column="48" />
-        <mark key="m" line="63" column="0" />
-        <mark key="]" line="85" column="49" />
-        <mark key="." line="85" column="48" />
-        <mark key="^" line="85" column="49" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_view.xml" timestamp="1590231081182">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="34" />
@@ -153,6 +144,12 @@
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590804393237">
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="44" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/build.gradle" timestamp="1590215434290">
         <mark key="[" line="12" column="0" />
@@ -314,31 +311,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblNpemVDaGFuZ2VkKHc6IEludCwgaDogSW50LCBvbGR3OiBJbnQsIG9sZGg6IEludCkgewogICAgICAgIHN1cGVyLm9uU2l6ZUNoYW5nZWQodywgaCwgb2xkdywgb2xkaCkKICAgICAgICBpZiAodyAhPSBvbGR3IHx8IGggIT0gb2xkaCkgewogICAgICAgICAgICBiaXRtYXBHZW5lcmF0b3Iuc2V0U2l6ZSh3LCBoKQogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNlbnRyZVggPSAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>AppCompatActivity</text>
+        <text>centreX</text>
       </register>
       <register name="/" type="4">
         <text>setValue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZz0iOGRwIgogICAgICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci93aGl0ZSIK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNlbnRyZVggPSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblNpemVDaGFuZ2VkKHc6IEludCwgaDogSW50LCBvbGR3OiBJbnQsIG9sZGg6IEludCkgewogICAgICAgIHN1cGVyLm9uU2l6ZUNoYW5nZWQodywgaCwgb2xkdywgb2xkaCkKICAgICAgICBpZiAodyAhPSBvbGR3IHx8IGggIT0gb2xkaCkgewogICAgICAgICAgICBiaXRtYXBHZW5lcmF0b3Iuc2V0U2l6ZSh3LCBoKQogICAgICAgIH0KICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNlbnRyZVggPSAwCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQ29sb3JVCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblNpemVDaGFuZ2VkKHc6IEludCwgaDogSW50LCBvbGR3OiBJbnQsIG9sZGg6IEludCkgewogICAgICAgIHN1cGVyLm9uU2l6ZUNoYW5nZWQodywgaCwgb2xkdywgb2xkaCkKICAgICAgICBpZiAodyAhPSBvbGR3IHx8IGggIT0gb2xkaCkgewogICAgICAgICAgICBiaXRtYXBHZW5lcmF0b3Iuc2V0U2l6ZSh3LCBoKQogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3615,16 +3612,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uc3R5bGluZ2FuZHJvaWQuY29sb3Vyd2hlZWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
