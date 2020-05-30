@@ -145,13 +145,13 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590806911359">
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590812058337">
         <mark key="'" line="81" column="60" />
-        <mark key="[" line="89" column="0" />
+        <mark key="[" line="72" column="32" />
         <mark key="m" line="81" column="60" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="85" column="38" />
+        <mark key="]" line="72" column="32" />
+        <mark key="." line="72" column="32" />
+        <mark key="^" line="71" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/build.gradle" timestamp="1590215434290">
         <mark key="[" line="12" column="0" />
@@ -190,11 +190,11 @@
         <mark key="^" line="101" column="34" />
         <mark key="." line="101" column="33" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590806783119">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="10" column="46" />
-        <mark key="^" line="10" column="46" />
-        <mark key="." line="10" column="45" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590812002321">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590297191331">
         <mark key="[" line="1" column="26" />
@@ -314,11 +314,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>setGrad</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>setValue</text>
@@ -327,19 +327,19 @@
         <text encoding="base64">ICAgICAgICBjZW50cmVYID0gKHBhZGRpbmdMZWZ0ICsgdykgLyAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIENvbG9yLk1BR0VOVEEsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIENvbG9yLkJMVUUsCiAgICBDb2xvci5NQUdFTlRBLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIENvbG9yLllFTExPVywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRHcmEK</text>
+        <text encoding="base64">ICAgIENvbG9yLkdSRUVOLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3616,13 +3616,13 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgaGVpZ2h0TWVhc3VyZVNwZWMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNlbnRyZVggPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRHcmEK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
