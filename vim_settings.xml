@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</entry>
         <entry>Invalid</entry>
         <entry>Fill</entry>
         <entry>Warn</entry>
@@ -18,7 +17,6 @@
         <entry>mapping</entry>
         <entry>textColor</entry>
         <entry>13</entry>
-        <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
         <entry>generate_blocking</entry>
         <entry>generateBl</entry>
         <entry>setSize</entry>
@@ -27,6 +25,8 @@
         <entry>init</entry>
         <entry encoding="base64">XDxyYWRpdXNcPg==</entry>
         <entry>paint</entry>
+        <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
+        <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -115,17 +115,10 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_view.xml" timestamp="1590231081182">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-        <mark key="." line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590311198935">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590893588362">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/marker.xml" timestamp="1590316114840">
         <mark key="[" line="11" column="25" />
@@ -163,6 +156,7 @@
         <mark key="." line="2" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/MainActivity.kt" timestamp="1590318912359" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/colors.xml" timestamp="1590893583983" />
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" timestamp="1590319609267">
         <mark key="'" line="51" column="49" />
         <mark key="[" line="19" column="0" />
@@ -170,13 +164,13 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590315919413">
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590894042466">
         <mark key="'" line="89" column="12" />
-        <mark key="[" line="100" column="20" />
+        <mark key="[" line="6" column="12" />
         <mark key="m" line="89" column="12" />
-        <mark key="]" line="101" column="34" />
-        <mark key="^" line="101" column="34" />
-        <mark key="." line="101" column="33" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" timestamp="1590892925958">
         <mark key="'" line="37" column="40" />
@@ -192,17 +186,12 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590835381697">
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="49" />
-        <mark key="^" line="21" column="49" />
-        <mark key="." line="21" column="48" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590297191331">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590894110224">
+        <mark key="'" line="93" column="2" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="10" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/attrs.xml" timestamp="1590821707024">
         <mark key="[" line="4" column="0" />
@@ -215,10 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="55" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="16" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="75" column="65" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
       <jump line="44" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
       <jump line="21" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
@@ -315,38 +300,40 @@
       <jump line="32" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
       <jump line="33" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
       <jump line="34" column="40" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="90" column="6" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="91" column="2" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="1" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="93" column="2" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>LinearLayout</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>LinearLayout</text>
       </register>
       <register name="/" type="4">
-        <text>paint</text>
+        <text encoding="base64">XDxTY3JvbGxWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbGVnWSA9IGV2ZW50LnkgLSBjZW50cmVZCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbG9yCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc2hhZG93UmFkaXVzID0gcmFkaXVzICsgc3Ryb2tlV2lkdGggLyAyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>.apply {
-        strokeWidth = 20f
-    }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciByYWRpdXMgPSAxMGYK</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckFjY2VudCI+IzAzREFDNTwvY29sb3I+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj4jMzcwMEIzPC9jb2xvcj4K</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3623,16 +3610,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW52YWxpZGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiM2MjAwRUU8L2NvbG9yPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9pbnRlci5yYWRpdXMgPSB2YWx1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHsK</text>
+        <text encoding="base64">ICAgIDwvcmVzb3VyY2VzPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IHBvaW50ZXIucmFkaXVzCg==</text>
+        <text encoding="base64">ICAgIDxyZXNvdXJjZXM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3641,9 +3628,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>paint</last-search>
+      <last-search encoding="base64">XDxTY3JvbGxWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern>paint</last-pattern>
+      <last-pattern encoding="base64">XDxTY3JvbGxWaWV3XD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
