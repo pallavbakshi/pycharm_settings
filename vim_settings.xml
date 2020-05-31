@@ -109,6 +109,13 @@
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="91" />
       </file>
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" timestamp="1590900929314">
+        <mark key="[" line="31" column="30" />
+        <mark key="m" line="24" column="19" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="45" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590303414330">
         <mark key="[" line="7" column="30" />
         <mark key="]" line="7" column="30" />
@@ -132,12 +139,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590896556146">
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590900514485">
         <mark key="'" line="122" column="16" />
-        <mark key="[" line="170" column="44" />
-        <mark key="]" line="170" column="42" />
-        <mark key="." line="170" column="41" />
-        <mark key="^" line="170" column="42" />
+        <mark key="[" line="70" column="4" />
+        <mark key="]" line="70" column="4" />
+        <mark key="." line="70" column="3" />
+        <mark key="^" line="70" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590299203021">
         <mark key="'" line="0" column="0" />
@@ -186,12 +193,12 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590895215931">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="63" column="20" />
-        <mark key="]" line="63" column="34" />
-        <mark key="." line="63" column="33" />
-        <mark key="^" line="63" column="34" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590900577090">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="39" />
+        <mark key="^" line="15" column="40" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/attrs.xml" timestamp="1590821707024">
         <mark key="[" line="4" column="0" />
@@ -309,31 +316,31 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>hsv</text>
+        <text>&quot;Pallav is awesome&quot;, something_else.toString()</text>
       </register>
       <register name="-" type="4">
-        <text>hsv</text>
+        <text>&quot;Pallav is awesome&quot;, something_else.toString()</text>
       </register>
       <register name="/" type="4">
         <text>hsv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTZkcCIK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiUGFsbGF2IGlzIGF3ZXNvbWUiLCBzb21ldGhpbmdfZWxzZS50b1N0cmluZygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcldoZWVsLnNldEhzdigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNldEhzdgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3UGFyZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB4ID0gY29zKGFuZ2xlKSAqIHIgKyBjZW50cmVYCi8vICAgICAgICB2YWwgeSA9IHNpbihhbmdsZSkgKiByICsgY2VudHJlWQovLyAgICAgICAgdmFsIGR4ID0geCAtIGNlbnRyZVgKLy8gICAgICAgIHZhbCBkeSA9IHkgLSBjZW50cmVZCi8vICAgICAgICB2YWwgaHVlID0gKGF0YW4yKGxlZ1kudG9Eb3VibGUoKSwgbGVnWC50b0RvdWJsZSgpKSAvIFBJICogMTgwZikudG9GbG9hdCgpICsgMTgwCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvckdyb3VwID0gZmluZFZpZXdCeUlkPFJhZGlvR3JvdXA+KFIuaWQucikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3UGFyZW50ID0gcGFyZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3610,16 +3617,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xvckNoYW5nZUxpc3RlbmVyPy5pbnZva2Uoc2V0SHN2KQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlyZFRpbGUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
