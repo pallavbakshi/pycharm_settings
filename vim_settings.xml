@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Invalid</entry>
         <entry>Fill</entry>
         <entry>Warn</entry>
         <entry>creat_attr</entry>
@@ -27,6 +26,7 @@
         <entry>paint</entry>
         <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
         <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
+        <entry>hsv</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -132,12 +132,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590895045133">
-        <mark key="'" line="13" column="20" />
-        <mark key="[" line="130" column="37" />
-        <mark key="]" line="130" column="35" />
-        <mark key="." line="130" column="34" />
-        <mark key="^" line="130" column="35" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590896556146">
+        <mark key="'" line="122" column="16" />
+        <mark key="[" line="170" column="44" />
+        <mark key="]" line="170" column="42" />
+        <mark key="." line="170" column="41" />
+        <mark key="^" line="170" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590299203021">
         <mark key="'" line="0" column="0" />
@@ -186,12 +186,12 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590895152492">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="63" />
-        <mark key="." line="60" column="62" />
-        <mark key="^" line="60" column="63" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590895215931">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="34" />
+        <mark key="." line="63" column="33" />
+        <mark key="^" line="63" column="34" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/attrs.xml" timestamp="1590821707024">
         <mark key="[" line="4" column="0" />
@@ -204,12 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="22" column="18" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="26" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="78" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="84" column="6" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
       <jump line="9" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
@@ -273,7 +267,6 @@
       <jump line="87" column="12" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" />
       <jump line="58" column="49" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" />
-      <jump line="74" column="31" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="82" column="60" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="18" column="4" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
       <jump line="50" column="27" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
@@ -283,7 +276,6 @@
       <jump line="10" column="35" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="47" column="35" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="102" column="18" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
-      <jump line="155" column="52" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="150" column="54" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="14" column="20" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
       <jump line="15" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
@@ -304,36 +296,44 @@
       <jump line="98" column="6" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="12" column="38" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="100" column="0" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="116" column="16" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="117" column="30" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="123" column="32" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="154" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="155" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="164" column="36" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="74" column="4" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="122" column="16" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>colorBackground</text>
+        <text>hsv</text>
       </register>
       <register name="-" type="4">
-        <text>colorBackground</text>
+        <text>hsv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</text>
+        <text>hsv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGVnWSA9IGV2ZW50LnkgLSBjZW50cmVZCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iMTZkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3UGFyZW50Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCB4ID0gY29zKGFuZ2xlKSAqIHIgKyBjZW50cmVYCi8vICAgICAgICB2YWwgeSA9IHNpbihhbmdsZSkgKiByICsgY2VudHJlWQovLyAgICAgICAgdmFsIGR4ID0geCAtIGNlbnRyZVgKLy8gICAgICAgIHZhbCBkeSA9IHkgLSBjZW50cmVZCi8vICAgICAgICB2YWwgaHVlID0gKGF0YW4yKGxlZ1kudG9Eb3VibGUoKSwgbGVnWC50b0RvdWJsZSgpKSAvIFBJICogMTgwZikudG9GbG9hdCgpICsgMTgwCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNldEhzdgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBWaWV3UGFyZW50ID0gcGFyZW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3UGFyZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCB4ID0gY29zKGFuZ2xlKSAqIHIgKyBjZW50cmVYCi8vICAgICAgICB2YWwgeSA9IHNpbihhbmdsZSkgKiByICsgY2VudHJlWQovLyAgICAgICAgdmFsIGR4ID0geCAtIGNlbnRyZVgKLy8gICAgICAgIHZhbCBkeSA9IHkgLSBjZW50cmVZCi8vICAgICAgICB2YWwgaHVlID0gKGF0YW4yKGxlZ1kudG9Eb3VibGUoKSwgbGVnWC50b0RvdWJsZSgpKSAvIFBJICogMTgwZikudG9GbG9hdCgpICsgMTgwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
+        <text encoding="base64">ICAgICAgICBWaWV3UGFyZW50ID0gcGFyZW50Cg==</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3610,16 +3610,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yCg==</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3628,9 +3628,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</last-search>
+      <last-search>hsv</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</last-pattern>
+      <last-pattern>hsv</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
