@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ValueError</entry>
         <entry>mapping</entry>
         <entry>textColor</entry>
         <entry>13</entry>
@@ -27,6 +26,7 @@
         <entry>text</entry>
         <entry>color</entry>
         <entry>paddingTop</entry>
+        <entry>toInt</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
@@ -103,18 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable/tile_selector.xml" timestamp="1590298735788">
-        <mark key="[" line="2" column="90" />
-        <mark key="]" line="2" column="92" />
-        <mark key="^" line="2" column="92" />
-        <mark key="." line="2" column="91" />
-      </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" timestamp="1590928515098">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="57" column="33" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="57" column="52" />
-        <mark key="^" line="57" column="53" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" timestamp="1590930681311">
+        <mark key="'" line="25" column="50" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590303414330">
         <mark key="[" line="7" column="30" />
@@ -122,11 +115,10 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorListener.kt" timestamp="1590910504279">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="3" column="41" />
-        <mark key="^" line="3" column="41" />
-        <mark key="." line="3" column="40" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorListener.kt" timestamp="1590929509970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590893588362">
         <mark key="[" line="2" column="0" />
@@ -145,12 +137,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590926908440">
-        <mark key="'" line="50" column="8" />
-        <mark key="[" line="151" column="50" />
-        <mark key="]" line="151" column="51" />
-        <mark key="." line="151" column="50" />
-        <mark key="^" line="151" column="51" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590929498135">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="149" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590299203021">
         <mark key="'" line="0" column="0" />
@@ -161,6 +153,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1590821809071">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/marker.xml" timestamp="1590929854793">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/values.xml" timestamp="1590837870909">
         <mark key="[" line="2" column="42" />
@@ -185,12 +182,12 @@
         <mark key="." line="6" column="27" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" timestamp="1590892925958">
-        <mark key="'" line="37" column="40" />
-        <mark key="[" line="18" column="47" />
-        <mark key="m" line="50" column="21" />
-        <mark key="]" line="18" column="48" />
-        <mark key="." line="18" column="47" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" timestamp="1590929521802">
+        <mark key="'" line="36" column="40" />
+        <mark key="[" line="27" column="0" />
+        <mark key="m" line="49" column="21" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
         <mark key="^" line="18" column="48" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/styles.xml" timestamp="1590821329257">
@@ -199,12 +196,12 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590927239135">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="92" column="31" />
-        <mark key="]" line="93" column="37" />
-        <mark key="." line="93" column="36" />
-        <mark key="^" line="93" column="37" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590929758896">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="47" />
       </file>
       <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/attrs.xml" timestamp="1590821707024">
         <mark key="[" line="4" column="0" />
@@ -217,7 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="15" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="65" column="54" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="75" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="24" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
@@ -317,36 +313,37 @@
       <jump line="24" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="44" column="0" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="26" column="50" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>rgb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
       </register>
       <register name="-" type="4">
-        <text>rgb</text>
+        <text>8dp</text>
       </register>
       <register name="/" type="4">
-        <text>paddingTop</text>
+        <text>toInt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMThkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiU29tZXRoaWduIiwgaHN2WzJdLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcldoZWVsLnNldEhzdihoc3YpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIAo=</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFJlbGF0aXZlTGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50IgogICAgYW5kcm9pZDppZD0iQCtpZC9tYXJrZXIiPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wcm9ncmVzcyIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iMCUiLz4KCjwvUmVsYXRpdmVMYXlvdXQ+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9wYWRkaW5nIgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3623,16 +3620,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL3BhZGRpbmciCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbVNlZWtCYXIuc2V0T25TZWVrQmFyQ2hhbmdlTGlzdGVuZXIobmV3IFNlZWtCYXIuT25TZWVrQmFyQ2hhbmdlTGlzdGVuZXIoKSB7CiAgICAgICAgaW50IHByb2dyZXNzQ2hhbmdlZFZhbHVlID0gMDsKCiAgICAgICAgcHVibGljIHZvaWQgb25Qcm9ncmVzc0NoYW5nZWQoU2Vla0JhciBzZWVrQmFyLCBpbnQgcHJvZ3Jlc3MsIGJvb2xlYW4gZnJvbVVzZXIpIHsKICAgICAgICAgICAgcHJvZ3Jlc3NDaGFuZ2VkVmFsdWUgPSBwcm9ncmVzczsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyB2b2lkIG9uU3RhcnRUcmFja2luZ1RvdWNoKFNlZWtCYXIgc2Vla0JhcikgewogICAgICAgICAgICAvLyBUT0RPIEF1dG8tZ2VuZXJhdGVkIG1ldGhvZCBzdHViCiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgdm9pZCBvblN0b3BUcmFja2luZ1RvdWNoKFNlZWtCYXIgc2Vla0JhcikgewogICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChNYWluQWN0aXZpdHkudGhpcywgIlNlZWsgYmFyIHByb2dyZXNzIGlzIDoiICsgcHJvZ3Jlc3NDaGFuZ2VkVmFsdWUsCiAgICAgICAgICAgICAgICBUb2FzdC5MRU5HVEhfU0hPUlQpLnNob3coKTsKICAgICAgICB9CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9wYWRkaW5nIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL3BhZGRpbmciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uUHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjhkcCIK</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3641,9 +3638,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>paddingTop</last-search>
+      <last-search>toInt</last-search>
       <last-offset />
-      <last-pattern>paddingTop</last-pattern>
+      <last-pattern>toInt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
