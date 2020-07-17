@@ -7,13 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>left_line</entry>
-        <entry encoding="base64">XDxDT0xPUlw+</entry>
-        <entry>np.full</entry>
-        <entry encoding="base64">XDxUdXBsZVw+</entry>
-        <entry>raise</entry>
-        <entry>CanvasObj</entry>
-        <entry>FillB</entry>
         <entry>get_connections</entry>
         <entry encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</entry>
         <entry>Invalid</entry>
@@ -23,14 +16,22 @@
         <entry>EXC</entry>
         <entry>Ex</entry>
         <entry>ValueError</entry>
+        <entry encoding="base64">XDxNYXhUaW1lXD4=</entry>
+        <entry encoding="base64">XDxzdGF0ZXNfY29weVw+</entry>
+        <entry encoding="base64">XDxkdW1teV9tb2RlX3VzYWdlXD4=</entry>
+        <entry>get_last_on_time</entry>
+        <entry>last_on</entry>
+        <entry>left</entry>
+        <entry>sum</entry>
+        <entry encoding="base64">XDxtYXBwaW5nXD4=</entry>
+        <entry>CURRENT_DATE</entry>
+        <entry>power_on</entry>
         <entry>mapping</entry>
-        <entry>textColor</entry>
-        <entry>13</entry>
-        <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
         <entry>history</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -103,22 +104,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590303184661">
+      <file name="/Python Console" timestamp="1589097982427">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" timestamp="1588918485625">
-        <mark key="'" line="156" column="0" />
-        <mark key="j" line="0" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="1" />
-        <mark key="^" line="155" column="1" />
-        <mark key="." line="155" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable/tile_selector.xml" timestamp="1590298735788">
         <mark key="[" line="2" column="90" />
         <mark key="]" line="2" column="92" />
         <mark key="^" line="2" column="92" />
         <mark key="." line="2" column="91" />
+      </file>
+      <file name="/fragment.py" timestamp="1589098297091">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590303414330">
         <mark key="[" line="7" column="30" />
@@ -130,8 +126,8 @@
         <mark key="'" line="88" column="49" />
         <mark key="g" line="45" column="19" />
         <mark key="[" line="85" column="48" />
-        <mark key="m" line="63" column="0" />
         <mark key="]" line="85" column="49" />
+        <mark key="m" line="63" column="0" />
         <mark key="." line="85" column="48" />
         <mark key="^" line="85" column="49" />
       </file>
@@ -153,16 +149,6 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590310216972">
-        <mark key="'" line="41" column="39" />
-        <mark key="[" line="75" column="48" />
-        <mark key="]" line="75" column="50" />
-        <mark key="." line="75" column="49" />
-        <mark key="^" line="75" column="50" />
-      </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
-        <mark key="'" line="78" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable/ic_brightness_1_black_24dp.xml" timestamp="1590299081324">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="27" />
@@ -173,12 +159,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590297191331">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/layout/activity_fullscreen.xml" timestamp="1589610639172">
         <mark key="'" line="11" column="12" />
@@ -191,6 +171,34 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/build.gradle" timestamp="1590215456625">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="4" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590303184661">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1590152897478">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590310216972">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="75" column="50" />
+        <mark key="." line="75" column="49" />
+        <mark key="^" line="75" column="50" />
+      </file>
+      <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
+        <mark key="'" line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590297191331">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" timestamp="1590216668248">
         <mark key="'" line="465" column="4" />
       </file>
@@ -198,12 +206,6 @@
         <mark key="'" line="212" column="4" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="84" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/build.gradle" timestamp="1590215456625">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
