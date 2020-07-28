@@ -7,31 +7,30 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>get_connections</entry>
-        <entry encoding="base64">XDxnZXRfY29ubmVjdGlvbnNcPg==</entry>
-        <entry>Invalid</entry>
-        <entry>Fill</entry>
-        <entry>Warn</entry>
-        <entry>creat_attr</entry>
-        <entry>EXC</entry>
-        <entry>Ex</entry>
-        <entry>ValueError</entry>
-        <entry encoding="base64">XDxNYXhUaW1lXD4=</entry>
-        <entry encoding="base64">XDxzdGF0ZXNfY29weVw+</entry>
-        <entry encoding="base64">XDxkdW1teV9tb2RlX3VzYWdlXD4=</entry>
-        <entry>get_last_on_time</entry>
-        <entry>last_on</entry>
-        <entry>left</entry>
-        <entry>sum</entry>
-        <entry encoding="base64">XDxtYXBwaW5nXD4=</entry>
-        <entry>CURRENT_DATE</entry>
-        <entry>power_on</entry>
         <entry>mapping</entry>
+        <entry>textColor</entry>
+        <entry>13</entry>
+        <entry>generate_blocking</entry>
+        <entry>generateBl</entry>
+        <entry>setSize</entry>
+        <entry>setValue</entry>
+        <entry encoding="base64">XDxDb2xvclBvaW50ZXJcPg==</entry>
+        <entry>init</entry>
+        <entry encoding="base64">XDxyYWRpdXNcPg==</entry>
+        <entry>paint</entry>
+        <entry encoding="base64">XDxTY3JvbGxWaWV3XD4=</entry>
+        <entry encoding="base64">XDxMaW5lYXJMYXlvdXRcPg==</entry>
+        <entry>hsv</entry>
+        <entry encoding="base64">XDxDb2xvckxpc3RlbmVyXD4=</entry>
+        <entry encoding="base64">XDxjb2xvckxpc3RlbmVyXD4=</entry>
+        <entry>text</entry>
+        <entry>color</entry>
+        <entry>paddingTop</entry>
+        <entry>toInt</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
         <entry>history</entry>
-        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -104,17 +103,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Python Console" timestamp="1589097982427">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable/tile_selector.xml" timestamp="1590298735788">
-        <mark key="[" line="2" column="90" />
-        <mark key="]" line="2" column="92" />
-        <mark key="^" line="2" column="92" />
-        <mark key="." line="2" column="91" />
-      </file>
-      <file name="/fragment.py" timestamp="1589098297091">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" timestamp="1590930681311">
+        <mark key="'" line="25" column="50" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable-v24/circle.xml" timestamp="1590303414330">
         <mark key="[" line="7" column="30" />
@@ -122,32 +115,21 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="69" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/scripts/create_evangelists.py" timestamp="1588958970254">
-        <mark key="'" line="88" column="49" />
-        <mark key="g" line="45" column="19" />
-        <mark key="[" line="85" column="48" />
-        <mark key="]" line="85" column="49" />
-        <mark key="m" line="63" column="0" />
-        <mark key="." line="85" column="48" />
-        <mark key="^" line="85" column="49" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorListener.kt" timestamp="1590929509970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_view.xml" timestamp="1590231081182">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="34" />
-        <mark key="^" line="11" column="34" />
-        <mark key="." line="11" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590893588362">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/values/strings.xml" timestamp="1589779783387">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="48" />
-        <mark key="^" line="4" column="49" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/values/colors.xml" timestamp="1590304362723">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="10" column="40" />
-        <mark key="." line="10" column="39" />
-        <mark key="^" line="10" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/marker.xml" timestamp="1590316114840">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/drawable/ic_brightness_1_black_24dp.xml" timestamp="1590299081324">
         <mark key="[" line="2" column="26" />
@@ -155,14 +137,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/build.gradle" timestamp="1590215434290">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/ColorPicker/app/src/main/res/layout/activity_fullscreen.xml" timestamp="1589610639172">
-        <mark key="'" line="11" column="12" />
-        <mark key="." line="22" column="106" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" timestamp="1590929498135">
+        <mark key="'" line="49" column="8" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="149" column="51" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/custom_radio_group.xml" timestamp="1590299203021">
         <mark key="'" line="0" column="0" />
@@ -171,103 +151,69 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/build.gradle" timestamp="1590215456625">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590303184661">
+      <file name="/Dummy.txt" timestamp="1590821809071">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/" timestamp="1590152897478">
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/marker.xml" timestamp="1590929854793">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590310216972">
-        <mark key="'" line="41" column="39" />
-        <mark key="[" line="75" column="48" />
-        <mark key="]" line="75" column="50" />
-        <mark key="." line="75" column="49" />
-        <mark key="^" line="75" column="50" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/values.xml" timestamp="1590837870909">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="42" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/skynet/utils/types.py" timestamp="1588919719667">
-        <mark key="'" line="78" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/MainActivity.kt" timestamp="1590318912359" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/colors.xml" timestamp="1590893583983" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" timestamp="1590319609267">
+        <mark key="'" line="51" column="49" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/circle.xml" timestamp="1590297191331">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590894042466">
+        <mark key="'" line="89" column="12" />
+        <mark key="[" line="6" column="12" />
+        <mark key="m" line="89" column="12" />
+        <mark key="]" line="6" column="28" />
+        <mark key="." line="6" column="27" />
+        <mark key="^" line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.skydoves/colorpickerview/2.1.1/62137e0d5f7761a351f5efde17e31615a3752ad3/colorpickerview-2.1.1-sources.jar!/com/skydoves/colorpickerview/ColorPickerView.java" timestamp="1590216668248">
-        <mark key="'" line="465" column="4" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" timestamp="1590929521802">
+        <mark key="'" line="36" column="40" />
+        <mark key="[" line="27" column="0" />
+        <mark key="m" line="49" column="21" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="18" column="48" />
       </file>
-      <file name="$USER_HOME$/ambi/ambi_brain/utils/plot_device_data.py" timestamp="1588918572820">
-        <mark key="'" line="212" column="4" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="84" column="40" />
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/styles.xml" timestamp="1590821329257">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="20" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" timestamp="1590929758896">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="47" />
+      </file>
+      <file name="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/values/attrs.xml" timestamp="1590821707024">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1590318795267">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="23" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="25" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="13" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="76" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="80" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="69" column="12" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="72" column="12" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="9" column="10" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
-      <jump line="1" column="47" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
-      <jump line="15" column="64" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="137" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/main.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="79" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="21" column="40" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="29" column="68" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="1" column="62" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="108" column="36" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="4" column="39" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="26" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="4" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="55" column="18" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="16" column="38" filename="$USER_HOME$/ambi/ambi_brain/scripts/sample_generator.py" />
-      <jump line="33" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="75" column="65" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="44" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/scripts/main.py" />
-      <jump line="3" column="40" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
-      <jump line="18" column="21" filename="$USER_HOME$/personal/credit-suisse-drawing-console/tests/test_canvas.py" />
-      <jump line="32" column="25" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="5" column="32" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="22" column="18" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="26" column="22" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="78" column="8" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="84" column="6" filename="$USER_HOME$/personal/credit-suisse-drawing-console/drawsole/canvas_objects.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="36" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="30" column="28" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="55" column="7" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="58" column="115" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="7" column="14" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="68" column="19" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="59" column="40" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="64" column="44" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="63" column="51" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="85" column="4" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="74" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
-      <jump line="5" column="15" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="65" column="54" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="75" column="33" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
       <jump line="24" column="9" filename="$USER_HOME$/ambi/ambi_brain/scripts/intercom_integrtion.py" />
@@ -309,36 +255,95 @@
       <jump line="54" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
       <jump line="39" column="39" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="80" column="34" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="87" column="12" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" />
+      <jump line="58" column="49" filename="$USER_HOME$/AndroidStudioProjects/AnotherColorWheel/app/src/main/java/com/example/anothercolorwheel/ColorWheelView.kt" />
+      <jump line="82" column="60" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="18" column="4" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="52" column="26" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="11" column="35" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="10" column="35" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="47" column="35" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="102" column="18" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="150" column="54" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="14" column="20" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="15" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="36" column="32" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="42" column="27" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="49" column="27" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="14" column="35" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="32" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="33" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="34" column="40" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorPointer.kt" />
+      <jump line="90" column="6" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="91" column="2" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="1" column="1" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="93" column="2" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="10" column="5" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="62" column="9" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="96" column="10" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="98" column="6" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="12" column="38" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="100" column="0" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="116" column="16" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="117" column="30" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="123" column="32" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="154" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="155" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="164" column="36" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="74" column="4" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="122" column="16" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="54" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="146" column="39" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="38" column="16" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="41" column="12" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="69" column="27" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="79" column="44" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="80" column="11" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="2" column="26" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="45" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="50" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/ColorWheel.kt" />
+      <jump line="9" column="28" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="13" column="25" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="14" column="25" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="16" column="25" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="22" column="39" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="23" column="39" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="24" column="8" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
+      <jump line="32" column="0" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="44" column="0" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/res/layout/activity_main.xml" />
+      <jump line="26" column="50" filename="$USER_HOME$/tissue_paper/ColorWheel/app/src/main/java/com/pallavbakshi/colorwheel/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>android:layout_gravity=&quot;center_horizontal&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
       </register>
       <register name="-" type="4">
-        <text>android:layout_gravity=&quot;center_horizontal&quot;</text>
+        <text>8dp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTY3JvbGxWaWV3XD4=</text>
+        <text>toInt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdGlsZV9zZWxlY3RvciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iMThkcCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxjb20uc2t5ZG92ZXMuY29sb3JwaWNrZXJ2aWV3LkNvbG9yUGlja2VyVmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvY29sb3JQaWNrZXJWaWV3IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzMDBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjMwMGRwIgogICAgICAgIGFwcDpwYWxldHRlPSJAZHJhd2FibGUvcGFsZXR0ZSIKICAgICAgICBhcHA6c2VsZWN0b3I9IkBkcmF3YWJsZS93aGVlbCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2cuZCgiU29tZXRoaWduIiwgaHN2WzJdLnRvU3RyaW5nKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcldoZWVsLnNldEhzdihoc3YpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPFJlbGF0aXZlTGF5b3V0CiAgICB4bWxuczphbmRyb2lkPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzL2FuZHJvaWQiCiAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBhbmRyb2lkOmNvbG9yL3RyYW5zcGFyZW50IgogICAgYW5kcm9pZDppZD0iQCtpZC9tYXJrZXIiPgoKICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9wcm9ncmVzcyIKICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjEwZHAiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3doaXRlIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iMCUiLz4KCjwvUmVsYXRpdmVMYXlvdXQ+</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvTGluZWFyTGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9wYWRkaW5nIgo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -3615,16 +3620,16 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxMaW5lYXJMYXlvdXQKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL3BhZGRpbmciCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxSYWRpb0dyb3VwCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjhkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjhkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjhkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iOGRwIgogICAgICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiPgogICAgICAgIDxSYWRpb0J1dHRvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3JhZGlvX2ZpcnN0X3RpbGUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iODBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJGSVJTVCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9jb2xvckZpcnN0VGlsZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvdGlsZV9zZWxlY3RvciIKICAgICAgICAgICAgYW5kcm9pZDpidXR0b249IkBudWxsIgogICAgICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlciIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIi8+CiAgICAgICAgPFJhZGlvQnV0dG9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvcmFkaW9fc2Vjb25kX3RpbGUiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iODBkcCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJTRUNPTkQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JTZWNvbmRUaWxlIgogICAgICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS90aWxlX3NlbGVjdG9yIgogICAgICAgICAgICBhbmRyb2lkOmJ1dHRvbj0iQG51bGwiCiAgICAgICAgICAgIGFuZHJvaWQ6Z3Jhdml0eT0iY2VudGVyIgogICAgICAgICAgICBhbmRyb2lkOm9uQ2xpY2s9Im9uQ2hhbmdlVGlsZUNsaWNrIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93ZWlnaHQ9IjEiLz4KICAgICAgICA8UmFkaW9CdXR0b24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9yYWRpb190aGlyZF90aWxlIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjgwZHAiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dD0iVEhJUkQiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3IvY29sb3JUaGlyZFRpbGUiCiAgICAgICAgICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGRyYXdhYmxlL3RpbGVfc2VsZWN0b3IiCiAgICAgICAgICAgIGFuZHJvaWQ6YnV0dG9uPSJAbnVsbCIKICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIvPgogICAgPC9SYWRpb0dyb3VwPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9wYWRkaW5nIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL3BhZGRpbmciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLnNreWRvdmVzLmNvbG9ycGlja2Vydmlldy5Db2xvclBpY2tlclZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9jb2xvclBpY2tlclZpZXciCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzMDBkcCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMDBkcCIKICAgICAgICAgICAgYXBwOnBhbGV0dGU9IkBkcmF3YWJsZS9wYWxldHRlIgogICAgICAgIGFwcDpzZWxlY3Rvcj0iQGRyYXdhYmxlL3doZWVsIiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luUmlnaHQ9IjhkcCIK</text>
       </register>
       <register name=":" type="4">
         <text>history</text>
@@ -3633,9 +3638,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTY3JvbGxWaWV3XD4=</last-search>
+      <last-search>toInt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTY3JvbGxWaWV3XD4=</last-pattern>
+      <last-pattern>toInt</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>

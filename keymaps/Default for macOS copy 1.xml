@@ -10,6 +10,9 @@
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift meta add" />
+  </action>
   <action id="InsertLiveTemplate" />
   <action id="Macro.10 DOWN">
     <keyboard-shortcut first-keystroke="shift meta j" />
@@ -18,6 +21,10 @@
     <keyboard-shortcut first-keystroke="shift meta k" />
   </action>
   <action id="Vcs.Push" />
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="ctrl meta equals" />
+    <keyboard-shortcut first-keystroke="shift meta equals" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
